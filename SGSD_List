@@ -1,0 +1,1912 @@
+SG	SG Description	SD	SD Description
+SG1000	Abdominal or Flank Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1000	Abdominal or Flank Injury, Blunt	SD4008	AMB motor and/or sensory deficit
+SG1000	Abdominal or Flank Injury, Blunt	SD4010	ALL assault, sexual
+SG1000	Abdominal or Flank Injury, Blunt	SD4017	AMB gastrointestinal bleed
+SG1000	Abdominal or Flank Injury, Blunt	SD4018	AMB severe pain
+SG1000	Abdominal or Flank Injury, Blunt	SD4033	AMB new/worsening breathlessness
+SG1000	Abdominal or Flank Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1000	Abdominal or Flank Injury, Blunt	SD4060	AMB acute abdomen
+SG1000	Abdominal or Flank Injury, Blunt	SD4075	AMB spinal injury
+SG1000	Abdominal or Flank Injury, Blunt	SD4090	AMB vaginal bleeding
+SG1000	Abdominal or Flank Injury, Blunt	SD4103	AMB unable to weight bear
+SG1000	Abdominal or Flank Injury, Blunt	SD4104	AMB motor/sensory deficit, spine
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4010	ALL assault, sexual
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4017	AMB gastrointestinal bleed
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4018	AMB severe pain
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4052	ED full ED assessment and management capability
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4060	AMB acute abdomen
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4075	AMB spinal injury
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4087	AMB cord prolapse
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4088	AMB imminent birth
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4089	AMB labour
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4103	AMB unable to weight bear
+SG1001	Abdominal or Flank Injury, Blunt, Pregnant	SD4137	AMB vaginal bleeding, pregnant
+SG1002	Abdominal or Flank Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1002	Abdominal or Flank Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1002	Abdominal or Flank Injury, Penetrating	SD4008	AMB motor and/or sensory deficit
+SG1002	Abdominal or Flank Injury, Penetrating	SD4010	ALL assault, sexual
+SG1002	Abdominal or Flank Injury, Penetrating	SD4017	AMB gastrointestinal bleed
+SG1002	Abdominal or Flank Injury, Penetrating	SD4018	AMB severe pain
+SG1002	Abdominal or Flank Injury, Penetrating	SD4033	AMB new/worsening breathlessness
+SG1002	Abdominal or Flank Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1002	Abdominal or Flank Injury, Penetrating	SD4060	AMB acute abdomen
+SG1002	Abdominal or Flank Injury, Penetrating	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1002	Abdominal or Flank Injury, Penetrating	SD4075	AMB spinal injury
+SG1002	Abdominal or Flank Injury, Penetrating	SD4077	AMB motor/sensory deficit AND wound, foreign body, large
+SG1002	Abdominal or Flank Injury, Penetrating	SD4090	AMB vaginal bleeding
+SG1002	Abdominal or Flank Injury, Penetrating	SD4103	AMB unable to weight bear
+SG1002	Abdominal or Flank Injury, Penetrating	SD4104	AMB motor/sensory deficit, spine
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4004	AMB foreign body, wound, large
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4010	ALL assault, sexual
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4017	AMB gastrointestinal bleed
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4018	AMB severe pain
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4052	ED full ED assessment and management capability
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4060	AMB acute abdomen
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4075	AMB spinal injury
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4087	AMB cord prolapse
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4088	AMB imminent birth
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4089	AMB labour
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4103	AMB unable to weight bear
+SG1003	Abdominal or Flank Injury, Penetrating, Pregnant	SD4137	AMB vaginal bleeding, pregnant
+SG1004	Abdominal Pain	SD4000	AMB septicaemia
+SG1004	Abdominal Pain	SD4001	AMB acute coronary syndrome
+SG1004	Abdominal Pain	SD4003	PC full Primary Care assessment and prescribing capability
+SG1004	Abdominal Pain	SD4010	ALL assault, sexual
+SG1004	Abdominal Pain	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1004	Abdominal Pain	SD4017	AMB gastrointestinal bleed
+SG1004	Abdominal Pain	SD4019	AMB toxic ingestion
+SG1004	Abdominal Pain	SD4033	AMB new/worsening breathlessness
+SG1004	Abdominal Pain	SD4052	ED full ED assessment and management capability
+SG1004	Abdominal Pain	SD4060	AMB acute abdomen
+SG1004	Abdominal Pain	SD4153	AMB bleeding, significant
+SG1004	Abdominal Pain	SD4250	AMB ectopic pregnancy
+SG1004	Abdominal Pain	SD4325	AMB faecal vomiting
+SG1004	Abdominal Pain	SD4455	PC suspected pre-eclampsia
+SG1004	Abdominal Pain	SD4459	AMB critical illness assessment
+SG1004	Abdominal Pain	SD4460	PC severe illness assessment capability
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4017	AMB gastrointestinal bleed
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4018	AMB severe pain
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4019	AMB toxic ingestion
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4087	AMB cord prolapse
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4088	AMB imminent birth
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4089	AMB labour
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4100	AMB placental abruption
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4112	PC full obstetric assessment and management capability
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4153	AMB bleeding, significant
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4455	PC suspected pre-eclampsia
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4459	AMB critical illness assessment
+SG1005	Abdominal Pain, Pregnant, Over 20 Weeks	SD4460	PC severe illness assessment capability
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4000	AMB septicaemia
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4002	AMB meningitis
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4017	AMB gastrointestinal bleed
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4019	AMB toxic ingestion
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4325	AMB faecal vomiting
+SG1006	Abdominal, Flank, Groin or Back Pain or Swelling	SD4460	PC severe illness assessment capability
+SG1007	Absent or Missed Period	SD4003	PC full Primary Care assessment and prescribing capability
+SG1008	Acne, Spots and Pimples	SD4003	PC full Primary Care assessment and prescribing capability
+SG1008	Acne, Spots and Pimples	SD4020	PC assessment and management capability, minor condition
+SG1009	Alcohol Intoxication	SD4001	AMB acute coronary syndrome
+SG1009	Alcohol Intoxication	SD4003	PC full Primary Care assessment and prescribing capability
+SG1009	Alcohol Intoxication	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1009	Alcohol Intoxication	SD4030	AMB drug/alcohol/solvent misuse
+SG1009	Alcohol Intoxication	SD4033	AMB new/worsening breathlessness
+SG1009	Alcohol Intoxication	SD4045	AMB aggression/violence
+SG1009	Alcohol Intoxication	SD4052	ED full ED assessment and management capability
+SG1009	Alcohol Intoxication	SD4086	AMB chest pain (undifferentiated)
+SG1009	Alcohol Intoxication	SD4098	AMB recent head injury
+SG1009	Alcohol Intoxication	SD4099	AMB diabetes mellitus
+SG1010	Allergic Reaction	SD4000	AMB septicaemia
+SG1010	Allergic Reaction	SD4001	AMB acute coronary syndrome
+SG1010	Allergic Reaction	SD4002	AMB meningitis
+SG1010	Allergic Reaction	SD4003	PC full Primary Care assessment and prescribing capability
+SG1010	Allergic Reaction	SD4020	PC assessment and management capability, minor condition
+SG1010	Allergic Reaction	SD4052	ED full ED assessment and management capability
+SG1010	Allergic Reaction	SD4101	AMB anaphylaxis
+SG1010	Allergic Reaction	SD4106	AMB shock
+SG1010	Allergic Reaction	SD4108	AMB decreased conscious level
+SG1010	Allergic Reaction	SD4460	PC severe illness assessment capability
+SG1011	Ankle or Foot Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1011	Ankle or Foot Injury, Blunt	SD4005	AMB ischaemia, post trauma
+SG1011	Ankle or Foot Injury, Blunt	SD4007	AMB fracture and/or dislocation
+SG1011	Ankle or Foot Injury, Blunt	SD4010	ALL assault, sexual
+SG1011	Ankle or Foot Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1011	Ankle or Foot Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1011	Ankle or Foot Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1011	Ankle or Foot Injury, Blunt	SD4304	ED unable to weightbear
+SG1011	Ankle or Foot Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1012	Ankle or Foot Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1012	Ankle or Foot Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1012	Ankle or Foot Injury, Penetrating	SD4005	AMB ischaemia, post trauma
+SG1012	Ankle or Foot Injury, Penetrating	SD4006	AMB compound fracture
+SG1012	Ankle or Foot Injury, Penetrating	SD4007	AMB fracture and/or dislocation
+SG1012	Ankle or Foot Injury, Penetrating	SD4009	ED amputation, digit
+SG1012	Ankle or Foot Injury, Penetrating	SD4010	ALL assault, sexual
+SG1012	Ankle or Foot Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1012	Ankle or Foot Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1012	Ankle or Foot Injury, Penetrating	SD4103	AMB unable to weight bear
+SG1013	Ankle or Foot Pain or Swelling	SD4000	AMB septicaemia
+SG1013	Ankle or Foot Pain or Swelling	SD4002	AMB meningitis
+SG1013	Ankle or Foot Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1013	Ankle or Foot Pain or Swelling	SD4026	AMB deep vein thrombosis
+SG1013	Ankle or Foot Pain or Swelling	SD4027	AMB ischaemia, non-trauma
+SG1013	Ankle or Foot Pain or Swelling	SD4029	AMB spinal cord compression
+SG1013	Ankle or Foot Pain or Swelling	SD4033	AMB new/worsening breathlessness
+SG1013	Ankle or Foot Pain or Swelling	SD4034	AMB haemoptysis
+SG1013	Ankle or Foot Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1013	Ankle or Foot Pain or Swelling	SD4084	AMB pulmonary embolism
+SG1013	Ankle or Foot Pain or Swelling	SD4156	PC Possible DVT
+SG1013	Ankle or Foot Pain or Swelling	SD4455	PC suspected pre-eclampsia
+SG1014	Arm Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1014	Arm Injury, Blunt	SD4005	AMB ischaemia, post trauma
+SG1014	Arm Injury, Blunt	SD4007	AMB fracture and/or dislocation
+SG1014	Arm Injury, Blunt	SD4010	ALL assault, sexual
+SG1014	Arm Injury, Blunt	SD4033	AMB new/worsening breathlessness
+SG1014	Arm Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1014	Arm Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1014	Arm Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1014	Arm Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1015	Arm Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1015	Arm Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1015	Arm Injury, Penetrating	SD4005	AMB ischaemia, post trauma
+SG1015	Arm Injury, Penetrating	SD4006	AMB compound fracture
+SG1015	Arm Injury, Penetrating	SD4007	AMB fracture and/or dislocation
+SG1015	Arm Injury, Penetrating	SD4010	ALL assault, sexual
+SG1015	Arm Injury, Penetrating	SD4033	AMB new/worsening breathlessness
+SG1015	Arm Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1015	Arm Injury, Penetrating	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1015	Arm Injury, Penetrating	SD4092	AMB fall, environmental exposure
+SG1015	Arm Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1015	Arm Injury, Penetrating	SD4480	AMB fall,  over 2 hours on floor
+SG1016	Arm, Pain or Swelling	SD4001	AMB acute coronary syndrome
+SG1016	Arm, Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1016	Arm, Pain or Swelling	SD4026	AMB deep vein thrombosis
+SG1016	Arm, Pain or Swelling	SD4027	AMB ischaemia, non-trauma
+SG1016	Arm, Pain or Swelling	SD4033	AMB new/worsening breathlessness
+SG1016	Arm, Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1016	Arm, Pain or Swelling	SD4455	PC suspected pre-eclampsia
+SG1017	Athlete's Foot	SD4003	PC full Primary Care assessment and prescribing capability
+SG1017	Athlete's Foot	SD4020	PC assessment and management capability, minor condition
+SG1018	Behaviour Change	SD4000	AMB septicaemia
+SG1018	Behaviour Change	SD4001	AMB acute coronary syndrome
+SG1018	Behaviour Change	SD4002	AMB meningitis
+SG1018	Behaviour Change	SD4003	PC full Primary Care assessment and prescribing capability
+SG1018	Behaviour Change	SD4028	AMB stroke
+SG1018	Behaviour Change	SD4042	AMB hypothermia
+SG1018	Behaviour Change	SD4046	AMB unconsciousness, recent
+SG1018	Behaviour Change	SD4049	AMB heat stroke
+SG1018	Behaviour Change	SD4052	ED full ED assessment and management capability
+SG1018	Behaviour Change	SD4098	AMB recent head injury
+SG1018	Behaviour Change	SD4099	AMB diabetes mellitus
+SG1018	Behaviour Change	SD4108	AMB decreased conscious level
+SG1018	Behaviour Change	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1018	Behaviour Change	SD4173	PC bereavement
+SG1018	Behaviour Change	SD4174	PC relationship breakdown
+SG1018	Behaviour Change	SD4175	PC postnatal mental health problem
+SG1018	Behaviour Change	SD4176	PC post-traumatic stress
+SG1018	Behaviour Change	SD4177	PC depressed mood
+SG1018	Behaviour Change	SD4178	PC agitation
+SG1018	Behaviour Change	SD4179	PC anxiety/panic
+SG1018	Behaviour Change	SD4180	PC mental health assessment, alcohol misuse
+SG1018	Behaviour Change	SD4181	PC mental health assessment, drug misuse
+SG1018	Behaviour Change	SD4185	PC hallucinations
+SG1018	Behaviour Change	SD4244	AMB suicidal, means and plan
+SG1018	Behaviour Change	SD4245	ED suicidal, no means nor plan
+SG1018	Behaviour Change	SD4406	AMB acute neurological deficit
+SG1018	Behaviour Change	SD4459	AMB critical illness assessment
+SG1018	Behaviour Change	SD4460	PC severe illness assessment capability
+SG1020	Bites or Stings, Insect or Spider	SD4003	PC full Primary Care assessment and prescribing capability
+SG1020	Bites or Stings, Insect or Spider	SD4052	ED full ED assessment and management capability
+SG1020	Bites or Stings, Insect or Spider	SD4101	AMB anaphylaxis
+SG1020	Bites or Stings, Insect or Spider	SD4132	ED tick, removal required
+SG1020	Bites or Stings, Insect or Spider	SD4333	RP ED minor injury
+SG1020	Bites or Stings, Insect or Spider	SD4398	PC tick, removal and bite management
+SG1021	Bites, Animal	SD4003	PC full Primary Care assessment and prescribing capability
+SG1021	Bites, Animal	SD4006	AMB compound fracture
+SG1021	Bites, Animal	SD4007	AMB fracture and/or dislocation
+SG1021	Bites, Animal	SD4009	ED amputation, digit
+SG1021	Bites, Animal	SD4010	ALL assault, sexual
+SG1021	Bites, Animal	SD4052	ED full ED assessment and management capability
+SG1021	Bites, Animal	SD4129	PC minor injury
+SG1021	Bites, Animal	SD4130	PC rabies risk
+SG1021	Bites, Animal	SD4139	AMB ischaemia, limb
+SG1021	Bites, Animal	SD4152	AMB amputation
+SG1022	Bites, Human	SD4003	PC full Primary Care assessment and prescribing capability
+SG1022	Bites, Human	SD4010	ALL assault, sexual
+SG1022	Bites, Human	SD4052	ED full ED assessment and management capability
+SG1023	Bites, Snake	SD4052	ED full ED assessment and management capability
+SG1023	Bites, Snake	SD4101	AMB anaphylaxis
+SG1023	Bites, Snake	SD4131	AMB envenomation
+SG1024	Blisters	SD4000	AMB septicaemia
+SG1024	Blisters	SD4002	AMB meningitis
+SG1024	Blisters	SD4003	PC full Primary Care assessment and prescribing capability
+SG1024	Blisters	SD4010	ALL assault, sexual
+SG1024	Blisters	SD4031	PC sexually transmitted infection
+SG1024	Blisters	SD4052	ED full ED assessment and management capability
+SG1025	Blood in Urine	SD4000	AMB septicaemia
+SG1025	Blood in Urine	SD4003	PC full Primary Care assessment and prescribing capability
+SG1025	Blood in Urine	SD4052	ED full ED assessment and management capability
+SG1025	Blood in Urine	SD4070	PC urinary catheter management capability
+SG1025	Blood in Urine	SD4073	PC urinary catheter problem AND fever
+SG1025	Blood in Urine	SD4377	RP ED urinary catheter problem
+SG1025	Blood in Urine	SD4459	AMB critical illness assessment
+SG1025	Blood in Urine	SD4460	PC severe illness assessment capability
+SG1026	Breast Discharge	SD4003	PC full Primary Care assessment and prescribing capability
+SG1027	Breast Discharge, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1028	Breast Lump	SD4003	PC full Primary Care assessment and prescribing capability
+SG1029	Breast Lump, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1030	Breast Pain	SD4001	AMB acute coronary syndrome
+SG1030	Breast Pain	SD4003	PC full Primary Care assessment and prescribing capability
+SG1030	Breast Pain	SD4033	AMB new/worsening breathlessness
+SG1031	Breast Pain, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1032	Breast Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1032	Breast Problems	SD4052	ED full ED assessment and management capability
+SG1033	Breastfeeding Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4000	AMB septicaemia
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4002	AMB meningitis
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4003	PC full Primary Care assessment and prescribing capability
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4017	AMB gastrointestinal bleed
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4023	AMB toxic inhalation
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4033	AMB new/worsening breathlessness
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4034	AMB haemoptysis
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4052	ED full ED assessment and management capability
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4083	AMB choked within previous 24 hours
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4084	AMB pulmonary embolism
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4085	AMB pneumothorax
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4101	AMB anaphylaxis
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4102	AMB respiratory distress
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4107	AMB apnoeic episode
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4108	AMB decreased conscious level
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4402	PC viral haemorrhagic fever
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4403	ED viral haemorrhagic fever
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4404	AMB viral haemorrhagic fever
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4405	PC skin, yellow
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4459	AMB critical illness assessment
+SG1034	Breathing Problems, Breathlessness or Wheeze	SD4460	PC severe illness assessment capability
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4034	AMB haemoptysis
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4052	ED full ED assessment and management capability
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4084	AMB pulmonary embolism
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4085	AMB pneumothorax
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4459	AMB critical illness assessment
+SG1035	Breathing Problems, Breathlessness or Wheeze, Pregnant	SD4460	PC severe illness assessment capability
+SG1036	Bringing Up Blood	SD4003	PC full Primary Care assessment and prescribing capability
+SG1036	Bringing Up Blood	SD4052	ED full ED assessment and management capability
+SG1036	Bringing Up Blood	SD4124	AMB seriously ill infant
+SG1036	Bringing Up Blood	SD4402	PC viral haemorrhagic fever
+SG1036	Bringing Up Blood	SD4403	ED viral haemorrhagic fever
+SG1036	Bringing Up Blood	SD4404	AMB viral haemorrhagic fever
+SG1037	Burn, Chemical	SD4003	PC full Primary Care assessment and prescribing capability
+SG1037	Burn, Chemical	SD4010	ALL assault, sexual
+SG1037	Burn, Chemical	SD4023	AMB toxic inhalation
+SG1037	Burn, Chemical	SD4024	ED management, significant burn
+SG1037	Burn, Chemical	SD4025	AMB hydrofluoric acid
+SG1037	Burn, Chemical	SD4052	ED full ED assessment and management capability
+SG1037	Burn, Chemical	SD4451	AMB burn chemical
+SG1038	Burn, Thermal	SD4003	PC full Primary Care assessment and prescribing capability
+SG1038	Burn, Thermal	SD4010	ALL assault, sexual
+SG1038	Burn, Thermal	SD4023	AMB toxic inhalation
+SG1038	Burn, Thermal	SD4024	ED management, significant burn
+SG1038	Burn, Thermal	SD4052	ED full ED assessment and management capability
+SG1039	Chest and Upper Back Pain	SD4000	AMB septicaemia
+SG1039	Chest and Upper Back Pain	SD4001	AMB acute coronary syndrome
+SG1039	Chest and Upper Back Pain	SD4002	AMB meningitis
+SG1039	Chest and Upper Back Pain	SD4003	PC full Primary Care assessment and prescribing capability
+SG1039	Chest and Upper Back Pain	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1039	Chest and Upper Back Pain	SD4030	AMB drug/alcohol/solvent misuse
+SG1039	Chest and Upper Back Pain	SD4033	AMB new/worsening breathlessness
+SG1039	Chest and Upper Back Pain	SD4052	ED full ED assessment and management capability
+SG1039	Chest and Upper Back Pain	SD4084	AMB pulmonary embolism
+SG1039	Chest and Upper Back Pain	SD4097	AMB palpitations
+SG1039	Chest and Upper Back Pain	SD4106	AMB shock
+SG1039	Chest and Upper Back Pain	SD4388	AMB ICD implanted
+SG1039	Chest and Upper Back Pain	SD4459	AMB critical illness assessment
+SG1039	Chest and Upper Back Pain	SD4460	PC severe illness assessment capability
+SG1040	Chest or Upper Back Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1040	Chest or Upper Back Injury, Blunt	SD4008	AMB motor and/or sensory deficit
+SG1040	Chest or Upper Back Injury, Blunt	SD4010	ALL assault, sexual
+SG1040	Chest or Upper Back Injury, Blunt	SD4017	AMB gastrointestinal bleed
+SG1040	Chest or Upper Back Injury, Blunt	SD4018	AMB severe pain
+SG1040	Chest or Upper Back Injury, Blunt	SD4033	AMB new/worsening breathlessness
+SG1040	Chest or Upper Back Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1040	Chest or Upper Back Injury, Blunt	SD4060	AMB acute abdomen
+SG1040	Chest or Upper Back Injury, Blunt	SD4075	AMB spinal injury
+SG1040	Chest or Upper Back Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1040	Chest or Upper Back Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1040	Chest or Upper Back Injury, Blunt	SD4097	AMB palpitations
+SG1040	Chest or Upper Back Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1041	Chest or Upper Back Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1041	Chest or Upper Back Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1041	Chest or Upper Back Injury, Penetrating	SD4008	AMB motor and/or sensory deficit
+SG1041	Chest or Upper Back Injury, Penetrating	SD4010	ALL assault, sexual
+SG1041	Chest or Upper Back Injury, Penetrating	SD4017	AMB gastrointestinal bleed
+SG1041	Chest or Upper Back Injury, Penetrating	SD4018	AMB severe pain
+SG1041	Chest or Upper Back Injury, Penetrating	SD4033	AMB new/worsening breathlessness
+SG1041	Chest or Upper Back Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1041	Chest or Upper Back Injury, Penetrating	SD4060	AMB acute abdomen
+SG1041	Chest or Upper Back Injury, Penetrating	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1041	Chest or Upper Back Injury, Penetrating	SD4075	AMB spinal injury
+SG1041	Chest or Upper Back Injury, Penetrating	SD4076	AMB haematuria
+SG1041	Chest or Upper Back Injury, Penetrating	SD4077	AMB motor/sensory deficit AND wound, foreign body, large
+SG1041	Chest or Upper Back Injury, Penetrating	SD4092	AMB fall, environmental exposure
+SG1041	Chest or Upper Back Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1041	Chest or Upper Back Injury, Penetrating	SD4097	AMB palpitations
+SG1041	Chest or Upper Back Injury, Penetrating	SD4480	AMB fall,  over 2 hours on floor
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4003	PC full Primary Care assessment and prescribing capability
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4051	PC child protection/vulnerable adult concern
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4052	ED full ED assessment and management capability
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4095	PC social services referral required
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4117	PC police referral required
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4118	AMB ambulance dispatch
+SG1042	Child Safeguard/Protection or Vulnerable Adult Concern	SD4193	PC general health information
+SG1043	Cold or Flu	SD4000	AMB septicaemia
+SG1043	Cold or Flu	SD4002	AMB meningitis
+SG1043	Cold or Flu	SD4003	PC full Primary Care assessment and prescribing capability
+SG1043	Cold or Flu	SD4052	ED full ED assessment and management capability
+SG1043	Cold or Flu	SD4402	PC viral haemorrhagic fever
+SG1043	Cold or Flu	SD4403	ED viral haemorrhagic fever
+SG1043	Cold or Flu	SD4404	AMB viral haemorrhagic fever
+SG1043	Cold or Flu	SD4459	AMB critical illness assessment
+SG1043	Cold or Flu	SD4460	PC severe illness assessment capability
+SG1044	Cold or Flu, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1044	Cold or Flu, Pregnant	SD4402	PC viral haemorrhagic fever
+SG1044	Cold or Flu, Pregnant	SD4403	ED viral haemorrhagic fever
+SG1044	Cold or Flu, Pregnant	SD4404	AMB viral haemorrhagic fever
+SG1044	Cold or Flu, Pregnant	SD4460	PC severe illness assessment capability
+SG1045	Constipation	SD4000	AMB septicaemia
+SG1045	Constipation	SD4003	PC full Primary Care assessment and prescribing capability
+SG1045	Constipation	SD4017	AMB gastrointestinal bleed
+SG1045	Constipation	SD4023	AMB toxic inhalation
+SG1045	Constipation	SD4029	AMB spinal cord compression
+SG1045	Constipation	SD4033	AMB new/worsening breathlessness
+SG1045	Constipation	SD4052	ED full ED assessment and management capability
+SG1045	Constipation	SD4072	ED testicular torsion
+SG1045	Constipation	SD4101	AMB anaphylaxis
+SG1045	Constipation	SD4102	AMB respiratory distress
+SG1045	Constipation	SD4107	AMB apnoeic episode
+SG1045	Constipation	SD4108	AMB decreased conscious level
+SG1045	Constipation	SD4402	PC viral haemorrhagic fever
+SG1045	Constipation	SD4403	ED viral haemorrhagic fever
+SG1045	Constipation	SD4404	AMB viral haemorrhagic fever
+SG1045	Constipation	SD4460	PC severe illness assessment capability
+SG1046	Constipation, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1046	Constipation, Pregnant	SD4029	AMB spinal cord compression
+SG1046	Constipation, Pregnant	SD4052	ED full ED assessment and management capability
+SG1047	Cough	SD4000	AMB septicaemia
+SG1047	Cough	SD4002	AMB meningitis
+SG1047	Cough	SD4003	PC full Primary Care assessment and prescribing capability
+SG1047	Cough	SD4017	AMB gastrointestinal bleed
+SG1047	Cough	SD4023	AMB toxic inhalation
+SG1047	Cough	SD4033	AMB new/worsening breathlessness
+SG1047	Cough	SD4052	ED full ED assessment and management capability
+SG1047	Cough	SD4101	AMB anaphylaxis
+SG1047	Cough	SD4102	AMB respiratory distress
+SG1047	Cough	SD4107	AMB apnoeic episode
+SG1047	Cough	SD4108	AMB decreased conscious level
+SG1047	Cough	SD4402	PC viral haemorrhagic fever
+SG1047	Cough	SD4403	ED viral haemorrhagic fever
+SG1047	Cough	SD4404	AMB viral haemorrhagic fever
+SG1047	Cough	SD4405	PC skin, yellow
+SG1047	Cough	SD4460	PC severe illness assessment capability
+SG1048	Cough, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1048	Cough, Pregnant	SD4052	ED full ED assessment and management capability
+SG1049	Coughing up Blood	SD4000	AMB septicaemia
+SG1049	Coughing up Blood	SD4002	AMB meningitis
+SG1049	Coughing up Blood	SD4003	PC full Primary Care assessment and prescribing capability
+SG1049	Coughing up Blood	SD4052	ED full ED assessment and management capability
+SG1049	Coughing up Blood	SD4084	AMB pulmonary embolism
+SG1049	Coughing up Blood	SD4085	AMB pneumothorax
+SG1049	Coughing up Blood	SD4389	ED post tonsillectomy bleeding
+SG1051	Dental Bleeding	SD4003	PC full Primary Care assessment and prescribing capability
+SG1051	Dental Bleeding	SD4047	PC full dental assessment and prescribing capability
+SG1051	Dental Bleeding	SD4052	ED full ED assessment and management capability
+SG1051	Dental Bleeding	SD4167	AMB analgesia overdose, accidental
+SG1051	Dental Bleeding	SD4391	ED bleeding post dental procedure
+SG1051	Dental Bleeding	SD4392	PC dental brace problem
+SG1051	Dental Bleeding	SD4393	PC bleeding post dental procedure
+SG1052	Dental Injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1052	Dental Injury	SD4010	ALL assault, sexual
+SG1052	Dental Injury	SD4033	AMB new/worsening breathlessness
+SG1052	Dental Injury	SD4047	PC full dental assessment and prescribing capability
+SG1052	Dental Injury	SD4052	ED full ED assessment and management capability
+SG1052	Dental Injury	SD4411	PC dental trauma, tooth avulsion
+SG1052	Dental Injury	SD4454	ED dental emergency
+SG1054	Diarrhoea	SD4000	AMB septicaemia
+SG1054	Diarrhoea	SD4002	AMB meningitis
+SG1054	Diarrhoea	SD4003	PC full Primary Care assessment and prescribing capability
+SG1054	Diarrhoea	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1054	Diarrhoea	SD4017	AMB gastrointestinal bleed
+SG1054	Diarrhoea	SD4019	AMB toxic ingestion
+SG1054	Diarrhoea	SD4023	AMB toxic inhalation
+SG1054	Diarrhoea	SD4029	AMB spinal cord compression
+SG1054	Diarrhoea	SD4033	AMB new/worsening breathlessness
+SG1054	Diarrhoea	SD4052	ED full ED assessment and management capability
+SG1054	Diarrhoea	SD4060	AMB acute abdomen
+SG1054	Diarrhoea	SD4101	AMB anaphylaxis
+SG1054	Diarrhoea	SD4102	AMB respiratory distress
+SG1054	Diarrhoea	SD4107	AMB apnoeic episode
+SG1054	Diarrhoea	SD4108	AMB decreased conscious level
+SG1054	Diarrhoea	SD4155	PC full Primary Care assessment and prescribing capability - blood in motion
+SG1054	Diarrhoea	SD4250	AMB ectopic pregnancy
+SG1054	Diarrhoea	SD4325	AMB faecal vomiting
+SG1054	Diarrhoea	SD4402	PC viral haemorrhagic fever
+SG1054	Diarrhoea	SD4403	ED viral haemorrhagic fever
+SG1054	Diarrhoea	SD4404	AMB viral haemorrhagic fever
+SG1054	Diarrhoea	SD4405	PC skin, yellow
+SG1054	Diarrhoea	SD4459	AMB critical illness assessment
+SG1054	Diarrhoea	SD4460	PC severe illness assessment capability
+SG1055	Diarrhoea and Vomiting	SD4000	AMB septicaemia
+SG1055	Diarrhoea and Vomiting	SD4002	AMB meningitis
+SG1055	Diarrhoea and Vomiting	SD4003	PC full Primary Care assessment and prescribing capability
+SG1055	Diarrhoea and Vomiting	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1055	Diarrhoea and Vomiting	SD4017	AMB gastrointestinal bleed
+SG1055	Diarrhoea and Vomiting	SD4019	AMB toxic ingestion
+SG1055	Diarrhoea and Vomiting	SD4023	AMB toxic inhalation
+SG1055	Diarrhoea and Vomiting	SD4033	AMB new/worsening breathlessness
+SG1055	Diarrhoea and Vomiting	SD4052	ED full ED assessment and management capability
+SG1055	Diarrhoea and Vomiting	SD4060	AMB acute abdomen
+SG1055	Diarrhoea and Vomiting	SD4101	AMB anaphylaxis
+SG1055	Diarrhoea and Vomiting	SD4102	AMB respiratory distress
+SG1055	Diarrhoea and Vomiting	SD4107	AMB apnoeic episode
+SG1055	Diarrhoea and Vomiting	SD4108	AMB decreased conscious level
+SG1055	Diarrhoea and Vomiting	SD4155	PC full Primary Care assessment and prescribing capability - blood in motion
+SG1055	Diarrhoea and Vomiting	SD4325	AMB faecal vomiting
+SG1055	Diarrhoea and Vomiting	SD4402	PC viral haemorrhagic fever
+SG1055	Diarrhoea and Vomiting	SD4403	ED viral haemorrhagic fever
+SG1055	Diarrhoea and Vomiting	SD4404	AMB viral haemorrhagic fever
+SG1055	Diarrhoea and Vomiting	SD4405	PC skin, yellow
+SG1055	Diarrhoea and Vomiting	SD4459	AMB critical illness assessment
+SG1055	Diarrhoea and Vomiting	SD4460	PC severe illness assessment capability
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4002	AMB meningitis
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4017	AMB gastrointestinal bleed
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4018	AMB severe pain
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4023	AMB toxic inhalation
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4060	AMB acute abdomen
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4087	AMB cord prolapse
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4088	AMB imminent birth
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4089	AMB labour
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4100	AMB placental abruption
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4112	PC full obstetric assessment and management capability
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4115	AMB vaginal bleeding, heavy
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4402	PC viral haemorrhagic fever
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4403	ED viral haemorrhagic fever
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4404	AMB viral haemorrhagic fever
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4455	PC suspected pre-eclampsia
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4459	AMB critical illness assessment
+SG1056	Diarrhoea or Vomiting, Pregnant, Over 20 Weeks	SD4460	PC severe illness assessment capability
+SG1057	Difficulty Passing Urine	SD4000	AMB septicaemia
+SG1057	Difficulty Passing Urine	SD4003	PC full Primary Care assessment and prescribing capability
+SG1057	Difficulty Passing Urine	SD4029	AMB spinal cord compression
+SG1057	Difficulty Passing Urine	SD4052	ED full ED assessment and management capability
+SG1057	Difficulty Passing Urine	SD4459	AMB critical illness assessment
+SG1057	Difficulty Passing Urine	SD4460	PC severe illness assessment capability
+SG1058	Difficulty Swallowing	SD4003	PC full Primary Care assessment and prescribing capability
+SG1058	Difficulty Swallowing	SD4017	AMB gastrointestinal bleed
+SG1058	Difficulty Swallowing	SD4028	AMB stroke
+SG1058	Difficulty Swallowing	SD4033	AMB new/worsening breathlessness
+SG1058	Difficulty Swallowing	SD4052	ED full ED assessment and management capability
+SG1058	Difficulty Swallowing	SD4101	AMB anaphylaxis
+SG1058	Difficulty Swallowing	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1058	Difficulty Swallowing	SD4406	AMB acute neurological deficit
+SG1059	Dizziness or Vertigo	SD4000	AMB septicaemia
+SG1059	Dizziness or Vertigo	SD4001	AMB acute coronary syndrome
+SG1059	Dizziness or Vertigo	SD4002	AMB meningitis
+SG1059	Dizziness or Vertigo	SD4003	PC full Primary Care assessment and prescribing capability
+SG1059	Dizziness or Vertigo	SD4017	AMB gastrointestinal bleed
+SG1059	Dizziness or Vertigo	SD4028	AMB stroke
+SG1059	Dizziness or Vertigo	SD4035	AMB subarachnoid haemorrhage
+SG1059	Dizziness or Vertigo	SD4049	AMB heat stroke
+SG1059	Dizziness or Vertigo	SD4052	ED full ED assessment and management capability
+SG1059	Dizziness or Vertigo	SD4134	ED full ophthalmic ED assessment and management capability
+SG1059	Dizziness or Vertigo	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1059	Dizziness or Vertigo	SD4388	AMB ICD implanted
+SG1059	Dizziness or Vertigo	SD4406	AMB acute neurological deficit
+SG1059	Dizziness or Vertigo	SD4460	PC severe illness assessment capability
+SG1060	Dizziness or Vertigo Pregnant	SD4002	AMB meningitis
+SG1060	Dizziness or Vertigo Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1060	Dizziness or Vertigo Pregnant	SD4017	AMB gastrointestinal bleed
+SG1060	Dizziness or Vertigo Pregnant	SD4028	AMB stroke
+SG1060	Dizziness or Vertigo Pregnant	SD4035	AMB subarachnoid haemorrhage
+SG1060	Dizziness or Vertigo Pregnant	SD4049	AMB heat stroke
+SG1060	Dizziness or Vertigo Pregnant	SD4052	ED full ED assessment and management capability
+SG1060	Dizziness or Vertigo Pregnant	SD4134	ED full ophthalmic ED assessment and management capability
+SG1060	Dizziness or Vertigo Pregnant	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1060	Dizziness or Vertigo Pregnant	SD4406	AMB acute neurological deficit
+SG1063	Ear Discharge or Ear Wax	SD4000	AMB septicaemia
+SG1063	Ear Discharge or Ear Wax	SD4002	AMB meningitis
+SG1063	Ear Discharge or Ear Wax	SD4003	PC full Primary Care assessment and prescribing capability
+SG1063	Ear Discharge or Ear Wax	SD4020	PC assessment and management capability, minor condition
+SG1063	Ear Discharge or Ear Wax	SD4022	ED foreign body, removal required
+SG1063	Ear Discharge or Ear Wax	SD4052	ED full ED assessment and management capability
+SG1063	Ear Discharge or Ear Wax	SD4460	PC severe illness assessment capability
+SG1064	Earache	SD4000	AMB septicaemia
+SG1064	Earache	SD4002	AMB meningitis
+SG1064	Earache	SD4003	PC full Primary Care assessment and prescribing capability
+SG1064	Earache	SD4020	PC assessment and management capability, minor condition
+SG1064	Earache	SD4022	ED foreign body, removal required
+SG1064	Earache	SD4052	ED full ED assessment and management capability
+SG1064	Earache	SD4134	ED full ophthalmic ED assessment and management capability
+SG1064	Earache	SD4460	PC severe illness assessment capability
+SG1065	Easy or Unexplained Bruising	SD4000	AMB septicaemia
+SG1065	Easy or Unexplained Bruising	SD4002	AMB meningitis
+SG1065	Easy or Unexplained Bruising	SD4003	PC full Primary Care assessment and prescribing capability
+SG1065	Easy or Unexplained Bruising	SD4010	ALL assault, sexual
+SG1065	Easy or Unexplained Bruising	SD4052	ED full ED assessment and management capability
+SG1065	Easy or Unexplained Bruising	SD4108	AMB decreased conscious level
+SG1065	Easy or Unexplained Bruising	SD4460	PC severe illness assessment capability
+SG1066	Electrical Injury	SD4010	ALL assault, sexual
+SG1066	Electrical Injury	SD4011	AMB assault, major
+SG1066	Electrical Injury	SD4018	AMB severe pain
+SG1066	Electrical Injury	SD4033	AMB new/worsening breathlessness
+SG1066	Electrical Injury	SD4044	AMB suicide attempt
+SG1066	Electrical Injury	SD4048	AMB fit/convulsion
+SG1066	Electrical Injury	SD4067	AMB high-risk group
+SG1066	Electrical Injury	SD4078	AMB electric shock, still in contact with source
+SG1066	Electrical Injury	SD4079	AMB electric shock, greater than domestic supply
+SG1066	Electrical Injury	SD4094	ED electric shock, domestic or lesser supply
+SG1066	Electrical Injury	SD4097	AMB palpitations
+SG1066	Electrical Injury	SD4135	AMB fall, significant
+SG1066	Electrical Injury	SD4136	AMB associated injury, risk
+SG1066	Electrical Injury	SD4148	AMB burn, electrical
+SG1067	External Fixation Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1067	External Fixation Problems	SD4012	AMB bleeding, persistent
+SG1067	External Fixation Problems	SD4018	AMB severe pain
+SG1067	External Fixation Problems	SD4052	ED full ED assessment and management capability
+SG1067	External Fixation Problems	SD4104	AMB motor/sensory deficit, spine
+SG1067	External Fixation Problems	SD4105	AMB spinal device, loose or broken
+SG1067	External Fixation Problems	SD4114	PC management of dressings
+SG1068	Eye Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1068	Eye Injury, Blunt	SD4010	ALL assault, sexual
+SG1068	Eye Injury, Blunt	SD4033	AMB new/worsening breathlessness
+SG1068	Eye Injury, Blunt	SD4043	AMB major head/neck injury
+SG1068	Eye Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1068	Eye Injury, Blunt	SD4091	AMB Head injury, full ED assessment required
+SG1068	Eye Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1068	Eye Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1068	Eye Injury, Blunt	SD4134	ED full ophthalmic ED assessment and management capability
+SG1068	Eye Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1069	Eye Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1069	Eye Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1069	Eye Injury, Penetrating	SD4010	ALL assault, sexual
+SG1069	Eye Injury, Penetrating	SD4012	AMB bleeding, persistent
+SG1069	Eye Injury, Penetrating	SD4033	AMB new/worsening breathlessness
+SG1069	Eye Injury, Penetrating	SD4043	AMB major head/neck injury
+SG1069	Eye Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1069	Eye Injury, Penetrating	SD4091	AMB Head injury, full ED assessment required
+SG1069	Eye Injury, Penetrating	SD4092	AMB fall, environmental exposure
+SG1069	Eye Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1069	Eye Injury, Penetrating	SD4134	ED full ophthalmic ED assessment and management capability
+SG1069	Eye Injury, Penetrating	SD4480	AMB fall,  over 2 hours on floor
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4003	PC full Primary Care assessment and prescribing capability
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4025	AMB hydrofluoric acid
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4052	ED full ED assessment and management capability
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4134	ED full ophthalmic ED assessment and management capability
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4306	ED highly dangerous chemical
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1071	Eye Splash Injury or Minor Foreign Body	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1072	Eye, Painful	SD4002	AMB meningitis
+SG1072	Eye, Painful	SD4003	PC full Primary Care assessment and prescribing capability
+SG1072	Eye, Painful	SD4020	PC assessment and management capability, minor condition
+SG1072	Eye, Painful	SD4052	ED full ED assessment and management capability
+SG1072	Eye, Painful	SD4134	ED full ophthalmic ED assessment and management capability
+SG1072	Eye, Painful	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1072	Eye, Painful	SD4311	PC extended ophthalmic assessment and management capability, minor condition (MECS)
+SG1072	Eye, Painful	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1072	Eye, Painful	SD4460	PC severe illness assessment capability
+SG1073	Eye, Red or Irritable	SD4002	AMB meningitis
+SG1073	Eye, Red or Irritable	SD4003	PC full Primary Care assessment and prescribing capability
+SG1073	Eye, Red or Irritable	SD4134	ED full ophthalmic ED assessment and management capability
+SG1073	Eye, Red or Irritable	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1073	Eye, Red or Irritable	SD4311	PC extended ophthalmic assessment and management capability, minor condition (MECS)
+SG1073	Eye, Red or Irritable	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1073	Eye, Red or Irritable	SD4460	PC severe illness assessment capability
+SG1074	Eye, Sticky or Watery	SD4003	PC full Primary Care assessment and prescribing capability
+SG1074	Eye, Sticky or Watery	SD4052	ED full ED assessment and management capability
+SG1074	Eye, Sticky or Watery	SD4134	ED full ophthalmic ED assessment and management capability
+SG1074	Eye, Sticky or Watery	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1074	Eye, Sticky or Watery	SD4311	PC extended ophthalmic assessment and management capability, minor condition (MECS)
+SG1074	Eye, Sticky or Watery	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1076	Eye, Visual Loss or Disturbance	SD4000	AMB septicaemia
+SG1076	Eye, Visual Loss or Disturbance	SD4002	AMB meningitis
+SG1076	Eye, Visual Loss or Disturbance	SD4003	PC full Primary Care assessment and prescribing capability
+SG1076	Eye, Visual Loss or Disturbance	SD4020	PC assessment and management capability, minor condition
+SG1076	Eye, Visual Loss or Disturbance	SD4028	AMB stroke
+SG1076	Eye, Visual Loss or Disturbance	SD4035	AMB subarachnoid haemorrhage
+SG1076	Eye, Visual Loss or Disturbance	SD4052	ED full ED assessment and management capability
+SG1076	Eye, Visual Loss or Disturbance	SD4098	AMB recent head injury
+SG1076	Eye, Visual Loss or Disturbance	SD4134	ED full ophthalmic ED assessment and management capability
+SG1076	Eye, Visual Loss or Disturbance	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1076	Eye, Visual Loss or Disturbance	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1076	Eye, Visual Loss or Disturbance	SD4311	PC extended ophthalmic assessment and management capability, minor condition (MECS)
+SG1076	Eye, Visual Loss or Disturbance	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1076	Eye, Visual Loss or Disturbance	SD4406	AMB acute neurological deficit
+SG1076	Eye, Visual Loss or Disturbance	SD4455	PC suspected pre-eclampsia
+SG1076	Eye, Visual Loss or Disturbance	SD4460	PC severe illness assessment capability
+SG1077	Eye, Yellow	SD4003	PC full Primary Care assessment and prescribing capability
+SG1077	Eye, Yellow	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1078	Eyelid Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1078	Eyelid Problems	SD4028	AMB stroke
+SG1078	Eyelid Problems	SD4134	ED full ophthalmic ED assessment and management capability
+SG1078	Eyelid Problems	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1078	Eyelid Problems	SD4310	PC extended ophthalmic assessment and prescribing capability (MECS)
+SG1078	Eyelid Problems	SD4311	PC extended ophthalmic assessment and management capability, minor condition (MECS)
+SG1078	Eyelid Problems	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1078	Eyelid Problems	SD4406	AMB acute neurological deficit
+SG1080	Face, Neck Pain or Swelling	SD4000	AMB septicaemia
+SG1080	Face, Neck Pain or Swelling	SD4001	AMB acute coronary syndrome
+SG1080	Face, Neck Pain or Swelling	SD4002	AMB meningitis
+SG1080	Face, Neck Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1080	Face, Neck Pain or Swelling	SD4008	AMB motor and/or sensory deficit
+SG1080	Face, Neck Pain or Swelling	SD4022	ED foreign body, removal required
+SG1080	Face, Neck Pain or Swelling	SD4029	AMB spinal cord compression
+SG1080	Face, Neck Pain or Swelling	SD4035	AMB subarachnoid haemorrhage
+SG1080	Face, Neck Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1080	Face, Neck Pain or Swelling	SD4134	ED full ophthalmic ED assessment and management capability
+SG1080	Face, Neck Pain or Swelling	SD4460	PC severe illness assessment capability
+SG1081	Falls or Faints Without Injury	SD4001	AMB acute coronary syndrome
+SG1081	Falls or Faints Without Injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1081	Falls or Faints Without Injury	SD4028	AMB stroke
+SG1081	Falls or Faints Without Injury	SD4032	AMB pregnancy
+SG1081	Falls or Faints Without Injury	SD4033	AMB new/worsening breathlessness
+SG1081	Falls or Faints Without Injury	SD4035	AMB subarachnoid haemorrhage
+SG1081	Falls or Faints Without Injury	SD4046	AMB unconsciousness, recent
+SG1081	Falls or Faints Without Injury	SD4052	ED full ED assessment and management capability
+SG1081	Falls or Faints Without Injury	SD4080	AMB pregnancy AND confusion
+SG1081	Falls or Faints Without Injury	SD4092	AMB fall, environmental exposure
+SG1081	Falls or Faints Without Injury	SD4093	AMB fall, unable to get up
+SG1081	Falls or Faints Without Injury	SD4112	PC full obstetric assessment and management capability
+SG1081	Falls or Faints Without Injury	SD4134	ED full ophthalmic ED assessment and management capability
+SG1081	Falls or Faints Without Injury	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1081	Falls or Faints Without Injury	SD4406	AMB acute neurological deficit
+SG1081	Falls or Faints Without Injury	SD4480	AMB fall,  over 2 hours on floor
+SG1083	Falls Without Injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1083	Falls Without Injury	SD4046	AMB unconsciousness, recent
+SG1083	Falls Without Injury	SD4052	ED full ED assessment and management capability
+SG1083	Falls Without Injury	SD4124	AMB seriously ill infant
+SG1084	Fever	SD4000	AMB septicaemia
+SG1084	Fever	SD4002	AMB meningitis
+SG1084	Fever	SD4003	PC full Primary Care assessment and prescribing capability
+SG1084	Fever	SD4017	AMB gastrointestinal bleed
+SG1084	Fever	SD4023	AMB toxic inhalation
+SG1084	Fever	SD4033	AMB new/worsening breathlessness
+SG1084	Fever	SD4052	ED full ED assessment and management capability
+SG1084	Fever	SD4080	AMB pregnancy AND confusion
+SG1084	Fever	SD4101	AMB anaphylaxis
+SG1084	Fever	SD4102	AMB respiratory distress
+SG1084	Fever	SD4107	AMB apnoeic episode
+SG1084	Fever	SD4108	AMB decreased conscious level
+SG1084	Fever	SD4402	PC viral haemorrhagic fever
+SG1084	Fever	SD4403	ED viral haemorrhagic fever
+SG1084	Fever	SD4404	AMB viral haemorrhagic fever
+SG1084	Fever	SD4405	PC skin, yellow
+SG1084	Fever	SD4406	AMB acute neurological deficit
+SG1084	Fever	SD4460	PC severe illness assessment capability
+SG1085	Finger or Thumb Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1085	Finger or Thumb Injury, Blunt	SD4010	ALL assault, sexual
+SG1085	Finger or Thumb Injury, Blunt	SD4014	ED constricting object, removal required
+SG1085	Finger or Thumb Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1085	Finger or Thumb Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1085	Finger or Thumb Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1085	Finger or Thumb Injury, Blunt	SD4129	PC minor injury
+SG1085	Finger or Thumb Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1086	Finger or Thumb Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1086	Finger or Thumb Injury, Penetrating	SD4009	ED amputation, digit
+SG1086	Finger or Thumb Injury, Penetrating	SD4010	ALL assault, sexual
+SG1086	Finger or Thumb Injury, Penetrating	SD4014	ED constricting object, removal required
+SG1086	Finger or Thumb Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1086	Finger or Thumb Injury, Penetrating	SD4092	AMB fall, environmental exposure
+SG1086	Finger or Thumb Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1086	Finger or Thumb Injury, Penetrating	SD4410	ED hydraulic injection injury
+SG1086	Finger or Thumb Injury, Penetrating	SD4480	AMB fall,  over 2 hours on floor
+SG1088	Fits Within the Last 12 Hours	SD4000	AMB septicaemia
+SG1088	Fits Within the Last 12 Hours	SD4001	AMB acute coronary syndrome
+SG1088	Fits Within the Last 12 Hours	SD4003	PC full Primary Care assessment and prescribing capability
+SG1088	Fits Within the Last 12 Hours	SD4030	AMB drug/alcohol/solvent misuse
+SG1088	Fits Within the Last 12 Hours	SD4032	AMB pregnancy
+SG1088	Fits Within the Last 12 Hours	SD4044	AMB suicide attempt
+SG1088	Fits Within the Last 12 Hours	SD4048	AMB fit/convulsion
+SG1088	Fits Within the Last 12 Hours	SD4052	ED full ED assessment and management capability
+SG1088	Fits Within the Last 12 Hours	SD4098	AMB recent head injury
+SG1088	Fits Within the Last 12 Hours	SD4099	AMB diabetes mellitus
+SG1088	Fits Within the Last 12 Hours	SD4106	AMB shock
+SG1088	Fits Within the Last 12 Hours	SD4108	AMB decreased conscious level
+SG1088	Fits Within the Last 12 Hours	SD4109	AMB stroke
+SG1088	Fits Within the Last 12 Hours	SD4110	AMB prolonged fitting
+SG1088	Fits Within the Last 12 Hours	SD4406	AMB acute neurological deficit
+SG1088	Fits Within the Last 12 Hours	SD4460	PC severe illness assessment capability
+SG1089	Flank or Side Pain	SD4000	AMB septicaemia
+SG1089	Flank or Side Pain	SD4003	PC full Primary Care assessment and prescribing capability
+SG1089	Flank or Side Pain	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1089	Flank or Side Pain	SD4026	AMB deep vein thrombosis
+SG1089	Flank or Side Pain	SD4027	AMB ischaemia, non-trauma
+SG1089	Flank or Side Pain	SD4033	AMB new/worsening breathlessness
+SG1089	Flank or Side Pain	SD4034	AMB haemoptysis
+SG1089	Flank or Side Pain	SD4052	ED full ED assessment and management capability
+SG1089	Flank or Side Pain	SD4060	AMB acute abdomen
+SG1089	Flank or Side Pain	SD4250	AMB ectopic pregnancy
+SG1089	Flank or Side Pain	SD4455	PC suspected pre-eclampsia
+SG1089	Flank or Side Pain	SD4459	AMB critical illness assessment
+SG1089	Flank or Side Pain	SD4460	PC severe illness assessment capability
+SG1090	Flank or Side Pain, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1090	Flank or Side Pain, Pregnant	SD4017	AMB gastrointestinal bleed
+SG1090	Flank or Side Pain, Pregnant	SD4018	AMB severe pain
+SG1090	Flank or Side Pain, Pregnant	SD4026	AMB deep vein thrombosis
+SG1090	Flank or Side Pain, Pregnant	SD4027	AMB ischaemia, non-trauma
+SG1090	Flank or Side Pain, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1090	Flank or Side Pain, Pregnant	SD4034	AMB haemoptysis
+SG1090	Flank or Side Pain, Pregnant	SD4087	AMB cord prolapse
+SG1090	Flank or Side Pain, Pregnant	SD4088	AMB imminent birth
+SG1090	Flank or Side Pain, Pregnant	SD4089	AMB labour
+SG1090	Flank or Side Pain, Pregnant	SD4090	AMB vaginal bleeding
+SG1090	Flank or Side Pain, Pregnant	SD4100	AMB placental abruption
+SG1090	Flank or Side Pain, Pregnant	SD4112	PC full obstetric assessment and management capability
+SG1090	Flank or Side Pain, Pregnant	SD4455	PC suspected pre-eclampsia
+SG1090	Flank or Side Pain, Pregnant	SD4459	AMB critical illness assessment
+SG1090	Flank or Side Pain, Pregnant	SD4460	PC severe illness assessment capability
+SG1091	Foreign Body, Ear	SD4003	PC full Primary Care assessment and prescribing capability
+SG1091	Foreign Body, Ear	SD4022	ED foreign body, removal required
+SG1091	Foreign Body, Ear	SD4052	ED full ED assessment and management capability
+SG1092	Foreign Body, Ingested or Inhaled	SD4003	PC full Primary Care assessment and prescribing capability
+SG1092	Foreign Body, Ingested or Inhaled	SD4033	AMB new/worsening breathlessness
+SG1092	Foreign Body, Ingested or Inhaled	SD4052	ED full ED assessment and management capability
+SG1092	Foreign Body, Ingested or Inhaled	SD4154	AMB hazardous object
+SG1092	Foreign Body, Ingested or Inhaled	SD4353	RP ED throat, foreign body
+SG1093	Foreign Body, Nose	SD4003	PC full Primary Care assessment and prescribing capability
+SG1093	Foreign Body, Nose	SD4022	ED foreign body, removal required
+SG1093	Foreign Body, Nose	SD4052	ED full ED assessment and management capability
+SG1094	Foreign Body, Penis	SD4003	PC full Primary Care assessment and prescribing capability
+SG1094	Foreign Body, Penis	SD4010	ALL assault, sexual
+SG1094	Foreign Body, Penis	SD4052	ED full ED assessment and management capability
+SG1095	Foreign Body, Rectum	SD4003	PC full Primary Care assessment and prescribing capability
+SG1095	Foreign Body, Rectum	SD4010	ALL assault, sexual
+SG1095	Foreign Body, Rectum	SD4052	ED full ED assessment and management capability
+SG1095	Foreign Body, Rectum	SD4060	AMB acute abdomen
+SG1096	Foreign Body, Vaginal	SD4003	PC full Primary Care assessment and prescribing capability
+SG1096	Foreign Body, Vaginal	SD4010	ALL assault, sexual
+SG1096	Foreign Body, Vaginal	SD4052	ED full ED assessment and management capability
+SG1096	Foreign Body, Vaginal	SD4060	AMB acute abdomen
+SG1096	Foreign Body, Vaginal	SD4066	PC retained tampon, condom or cap
+SG1096	Foreign Body, Vaginal	SD4087	AMB cord prolapse
+SG1096	Foreign Body, Vaginal	SD4088	AMB imminent birth
+SG1096	Foreign Body, Vaginal	SD4137	AMB vaginal bleeding, pregnant
+SG1097	Genital Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1097	Genital Injury, Blunt	SD4010	ALL assault, sexual
+SG1097	Genital Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1097	Genital Injury, Blunt	SD4057	ED foreign body, vagina
+SG1097	Genital Injury, Blunt	SD4090	AMB vaginal bleeding
+SG1097	Genital Injury, Blunt	SD4103	AMB unable to weight bear
+SG1097	Genital Injury, Blunt	SD4115	AMB vaginal bleeding, heavy
+SG1098	Genital Injury, Blunt, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1098	Genital Injury, Blunt, Pregnant	SD4010	ALL assault, sexual
+SG1098	Genital Injury, Blunt, Pregnant	SD4052	ED full ED assessment and management capability
+SG1098	Genital Injury, Blunt, Pregnant	SD4087	AMB cord prolapse
+SG1098	Genital Injury, Blunt, Pregnant	SD4088	AMB imminent birth
+SG1098	Genital Injury, Blunt, Pregnant	SD4089	AMB labour
+SG1098	Genital Injury, Blunt, Pregnant	SD4090	AMB vaginal bleeding
+SG1098	Genital Injury, Blunt, Pregnant	SD4100	AMB placental abruption
+SG1098	Genital Injury, Blunt, Pregnant	SD4103	AMB unable to weight bear
+SG1099	Genital Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1099	Genital Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1099	Genital Injury, Penetrating	SD4010	ALL assault, sexual
+SG1099	Genital Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1099	Genital Injury, Penetrating	SD4060	AMB acute abdomen
+SG1099	Genital Injury, Penetrating	SD4090	AMB vaginal bleeding
+SG1099	Genital Injury, Penetrating	SD4103	AMB unable to weight bear
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4004	AMB foreign body, wound, large
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4010	ALL assault, sexual
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4012	AMB bleeding, persistent
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4052	ED full ED assessment and management capability
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4060	AMB acute abdomen
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4087	AMB cord prolapse
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4088	AMB imminent birth
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4089	AMB labour
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4103	AMB unable to weight bear
+SG1100	Genital Injury, Penetrating, Pregnant, Over 20 weeks	SD4137	AMB vaginal bleeding, pregnant
+SG1101	Genital Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1101	Genital Problems	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1101	Genital Problems	SD4026	AMB deep vein thrombosis
+SG1101	Genital Problems	SD4027	AMB ischaemia, non-trauma
+SG1101	Genital Problems	SD4031	PC sexually transmitted infection
+SG1101	Genital Problems	SD4038	PC genital herpes, recurrent
+SG1101	Genital Problems	SD4052	ED full ED assessment and management capability
+SG1101	Genital Problems	SD4060	AMB acute abdomen
+SG1101	Genital Problems	SD4070	PC urinary catheter management capability
+SG1101	Genital Problems	SD4071	PC urinary retention
+SG1101	Genital Problems	SD4072	ED testicular torsion
+SG1101	Genital Problems	SD4073	PC urinary catheter problem AND fever
+SG1101	Genital Problems	SD4374	RP ED urinary retention
+SG1101	Genital Problems	SD4377	RP ED urinary catheter problem
+SG1103	Groin Pain or Groin Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1103	Groin Pain or Groin Swelling	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1103	Groin Pain or Groin Swelling	SD4026	AMB deep vein thrombosis
+SG1103	Groin Pain or Groin Swelling	SD4027	AMB ischaemia, non-trauma
+SG1103	Groin Pain or Groin Swelling	SD4052	ED full ED assessment and management capability
+SG1103	Groin Pain or Groin Swelling	SD4060	AMB acute abdomen
+SG1103	Groin Pain or Groin Swelling	SD4103	AMB unable to weight bear
+SG1103	Groin Pain or Groin Swelling	SD4250	AMB ectopic pregnancy
+SG1103	Groin Pain or Groin Swelling	SD4455	PC suspected pre-eclampsia
+SG1103	Groin Pain or Groin Swelling	SD4459	AMB critical illness assessment
+SG1103	Groin Pain or Groin Swelling	SD4460	PC severe illness assessment capability
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4026	AMB deep vein thrombosis
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4027	AMB ischaemia, non-trauma
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4052	ED full ED assessment and management capability
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4060	AMB acute abdomen
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4250	AMB ectopic pregnancy
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4459	AMB critical illness assessment
+SG1104	Groin Pain or Groin Swelling, Pregnant, Under 20 Weeks	SD4460	PC severe illness assessment capability
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4002	AMB meningitis
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4017	AMB gastrointestinal bleed
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4018	AMB severe pain
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4019	AMB toxic ingestion
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4026	AMB deep vein thrombosis
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4027	AMB ischaemia, non-trauma
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4087	AMB cord prolapse
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4088	AMB imminent birth
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4089	AMB labour
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4100	AMB placental abruption
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4112	PC full obstetric assessment and management capability
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4455	PC suspected pre-eclampsia
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4459	AMB critical illness assessment
+SG1105	Groin Pain or Swelling, Pregnant, Over 20 Weeks	SD4460	PC severe illness assessment capability
+SG1106	Hair loss	SD4003	PC full Primary Care assessment and prescribing capability
+SG1106	Hair loss	SD4020	PC assessment and management capability, minor condition
+SG1107	Hand or Wrist Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1107	Hand or Wrist Injury, Blunt	SD4005	AMB ischaemia, post trauma
+SG1107	Hand or Wrist Injury, Blunt	SD4010	ALL assault, sexual
+SG1107	Hand or Wrist Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1107	Hand or Wrist Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1107	Hand or Wrist Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1107	Hand or Wrist Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1108	Hand or Wrist Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1108	Hand or Wrist Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1108	Hand or Wrist Injury, Penetrating	SD4005	AMB ischaemia, post trauma
+SG1108	Hand or Wrist Injury, Penetrating	SD4006	AMB compound fracture
+SG1108	Hand or Wrist Injury, Penetrating	SD4007	AMB fracture and/or dislocation
+SG1108	Hand or Wrist Injury, Penetrating	SD4009	ED amputation, digit
+SG1108	Hand or Wrist Injury, Penetrating	SD4010	ALL assault, sexual
+SG1108	Hand or Wrist Injury, Penetrating	SD4014	ED constricting object, removal required
+SG1108	Hand or Wrist Injury, Penetrating	SD4015	ED bleeding disorder
+SG1108	Hand or Wrist Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1108	Hand or Wrist Injury, Penetrating	SD4092	AMB fall, environmental exposure
+SG1108	Hand or Wrist Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1108	Hand or Wrist Injury, Penetrating	SD4410	ED hydraulic injection injury
+SG1108	Hand or Wrist Injury, Penetrating	SD4480	AMB fall,  over 2 hours on floor
+SG1109	Head Lice	SD4003	PC full Primary Care assessment and prescribing capability
+SG1109	Head Lice	SD4020	PC assessment and management capability, minor condition
+SG1110	Head, Facial or Neck Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1110	Head, Facial or Neck Injury, Blunt	SD4010	ALL assault, sexual
+SG1110	Head, Facial or Neck Injury, Blunt	SD4011	AMB assault, major
+SG1110	Head, Facial or Neck Injury, Blunt	SD4033	AMB new/worsening breathlessness
+SG1110	Head, Facial or Neck Injury, Blunt	SD4043	AMB major head/neck injury
+SG1110	Head, Facial or Neck Injury, Blunt	SD4046	AMB unconsciousness, recent
+SG1110	Head, Facial or Neck Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1110	Head, Facial or Neck Injury, Blunt	SD4091	AMB Head injury, full ED assessment required
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4010	ALL assault, sexual
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4011	AMB assault, major
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4043	AMB major head/neck injury
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4046	AMB unconsciousness, recent
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4091	AMB Head injury, full ED assessment required
+SG1111	Head, Facial or Neck Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1112	Headache	SD4000	AMB septicaemia
+SG1112	Headache	SD4002	AMB meningitis
+SG1112	Headache	SD4003	PC full Primary Care assessment and prescribing capability
+SG1112	Headache	SD4028	AMB stroke
+SG1112	Headache	SD4035	AMB subarachnoid haemorrhage
+SG1112	Headache	SD4046	AMB unconsciousness, recent
+SG1112	Headache	SD4052	ED full ED assessment and management capability
+SG1112	Headache	SD4112	PC full obstetric assessment and management capability
+SG1112	Headache	SD4134	ED full ophthalmic ED assessment and management capability
+SG1112	Headache	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1112	Headache	SD4177	PC depressed mood
+SG1112	Headache	SD4179	PC anxiety/panic
+SG1112	Headache	SD4244	AMB suicidal, means and plan
+SG1112	Headache	SD4245	ED suicidal, no means nor plan
+SG1112	Headache	SD4402	PC viral haemorrhagic fever
+SG1112	Headache	SD4403	ED viral haemorrhagic fever
+SG1112	Headache	SD4404	AMB viral haemorrhagic fever
+SG1112	Headache	SD4406	AMB acute neurological deficit
+SG1112	Headache	SD4455	PC suspected pre-eclampsia
+SG1112	Headache	SD4459	AMB critical illness assessment
+SG1112	Headache	SD4460	PC severe illness assessment capability
+SG1113	Headache, Pregnant	SD4000	AMB septicaemia
+SG1113	Headache, Pregnant	SD4002	AMB meningitis
+SG1113	Headache, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1113	Headache, Pregnant	SD4023	AMB toxic inhalation
+SG1113	Headache, Pregnant	SD4028	AMB stroke
+SG1113	Headache, Pregnant	SD4035	AMB subarachnoid haemorrhage
+SG1113	Headache, Pregnant	SD4046	AMB unconsciousness, recent
+SG1113	Headache, Pregnant	SD4052	ED full ED assessment and management capability
+SG1113	Headache, Pregnant	SD4112	PC full obstetric assessment and management capability
+SG1113	Headache, Pregnant	SD4134	ED full ophthalmic ED assessment and management capability
+SG1113	Headache, Pregnant	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1113	Headache, Pregnant	SD4177	PC depressed mood
+SG1113	Headache, Pregnant	SD4179	PC anxiety/panic
+SG1113	Headache, Pregnant	SD4244	AMB suicidal, means and plan
+SG1113	Headache, Pregnant	SD4245	ED suicidal, no means nor plan
+SG1113	Headache, Pregnant	SD4402	PC viral haemorrhagic fever
+SG1113	Headache, Pregnant	SD4403	ED viral haemorrhagic fever
+SG1113	Headache, Pregnant	SD4404	AMB viral haemorrhagic fever
+SG1113	Headache, Pregnant	SD4406	AMB acute neurological deficit
+SG1113	Headache, Pregnant	SD4455	PC suspected pre-eclampsia
+SG1113	Headache, Pregnant	SD4459	AMB critical illness assessment
+SG1113	Headache, Pregnant	SD4460	PC severe illness assessment capability
+SG1114	Heat Exposure	SD4003	PC full Primary Care assessment and prescribing capability
+SG1114	Heat Exposure	SD4033	AMB new/worsening breathlessness
+SG1114	Heat Exposure	SD4046	AMB unconsciousness, recent
+SG1114	Heat Exposure	SD4048	AMB fit/convulsion
+SG1114	Heat Exposure	SD4049	AMB heat stroke
+SG1114	Heat Exposure	SD4052	ED full ED assessment and management capability
+SG1114	Heat Exposure	SD4097	AMB palpitations
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4000	AMB septicaemia
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4002	AMB meningitis
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4017	AMB gastrointestinal bleed
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4019	AMB toxic ingestion
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4026	AMB deep vein thrombosis
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4027	AMB ischaemia, non-trauma
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4029	AMB spinal cord compression
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4033	AMB new/worsening breathlessness
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4060	AMB acute abdomen
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4084	AMB pulmonary embolism
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4103	AMB unable to weight bear
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4134	ED full ophthalmic ED assessment and management capability
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4250	AMB ectopic pregnancy
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4459	AMB critical illness assessment
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4460	PC severe illness assessment capability
+SG1115	Hip, Thigh or Buttock Pain or Swelling	SD4481	PC mechanical low back pain
+SG1116	Itch	SD4003	PC full Primary Care assessment and prescribing capability
+SG1116	Itch	SD4020	PC assessment and management capability, minor condition
+SG1116	Itch	SD4031	PC sexually transmitted infection
+SG1116	Itch	SD4038	PC genital herpes, recurrent
+SG1117	Knee or Lower Leg Pain or Swelling	SD4000	AMB septicaemia
+SG1117	Knee or Lower Leg Pain or Swelling	SD4002	AMB meningitis
+SG1117	Knee or Lower Leg Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1117	Knee or Lower Leg Pain or Swelling	SD4026	AMB deep vein thrombosis
+SG1117	Knee or Lower Leg Pain or Swelling	SD4027	AMB ischaemia, non-trauma
+SG1117	Knee or Lower Leg Pain or Swelling	SD4029	AMB spinal cord compression
+SG1117	Knee or Lower Leg Pain or Swelling	SD4033	AMB new/worsening breathlessness
+SG1117	Knee or Lower Leg Pain or Swelling	SD4034	AMB haemoptysis
+SG1117	Knee or Lower Leg Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1117	Knee or Lower Leg Pain or Swelling	SD4084	AMB pulmonary embolism
+SG1117	Knee or Lower Leg Pain or Swelling	SD4103	AMB unable to weight bear
+SG1117	Knee or Lower Leg Pain or Swelling	SD4156	PC Possible DVT
+SG1117	Knee or Lower Leg Pain or Swelling	SD4455	PC suspected pre-eclampsia
+SG1118	Labour and Childbirth	SD4003	PC full Primary Care assessment and prescribing capability
+SG1118	Labour and Childbirth	SD4033	AMB new/worsening breathlessness
+SG1118	Labour and Childbirth	SD4037	AMB pre-eclampsia
+SG1118	Labour and Childbirth	SD4087	AMB cord prolapse
+SG1118	Labour and Childbirth	SD4088	AMB imminent birth
+SG1118	Labour and Childbirth	SD4100	AMB placental abruption
+SG1118	Labour and Childbirth	SD4106	AMB shock
+SG1118	Labour and Childbirth	SD4112	PC full obstetric assessment and management capability
+SG1118	Labour and Childbirth	SD4115	AMB vaginal bleeding, heavy
+SG1118	Labour and Childbirth	SD4144	AMB multiple birth
+SG1118	Labour and Childbirth	SD4145	AMB pre-term
+SG1118	Labour and Childbirth	SD4147	AMB stillbirth
+SG1118	Labour and Childbirth	SD4149	AMB post delivery
+SG1118	Labour and Childbirth	SD4150	AMB neonatal respiratory arrest
+SG1118	Labour and Childbirth	SD4151	AMB abdominal injury
+SG1118	Labour and Childbirth	SD4455	PC suspected pre-eclampsia
+SG1119	Leg Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1119	Leg Injury, Blunt	SD4005	AMB ischaemia, post trauma
+SG1119	Leg Injury, Blunt	SD4007	AMB fracture and/or dislocation
+SG1119	Leg Injury, Blunt	SD4010	ALL assault, sexual
+SG1119	Leg Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1119	Leg Injury, Blunt	SD4103	AMB unable to weight bear
+SG1120	Leg Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1120	Leg Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1120	Leg Injury, Penetrating	SD4005	AMB ischaemia, post trauma
+SG1120	Leg Injury, Penetrating	SD4006	AMB compound fracture
+SG1120	Leg Injury, Penetrating	SD4007	AMB fracture and/or dislocation
+SG1120	Leg Injury, Penetrating	SD4010	ALL assault, sexual
+SG1120	Leg Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1120	Leg Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1120	Leg Injury, Penetrating	SD4103	AMB unable to weight bear
+SG1121	Locked Jaw	SD4003	PC full Primary Care assessment and prescribing capability
+SG1121	Locked Jaw	SD4047	PC full dental assessment and prescribing capability
+SG1121	Locked Jaw	SD4052	ED full ED assessment and management capability
+SG1122	Lower Back Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1122	Lower Back Injury, Blunt	SD4008	AMB motor and/or sensory deficit
+SG1122	Lower Back Injury, Blunt	SD4010	ALL assault, sexual
+SG1122	Lower Back Injury, Blunt	SD4017	AMB gastrointestinal bleed
+SG1122	Lower Back Injury, Blunt	SD4018	AMB severe pain
+SG1122	Lower Back Injury, Blunt	SD4033	AMB new/worsening breathlessness
+SG1122	Lower Back Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1122	Lower Back Injury, Blunt	SD4060	AMB acute abdomen
+SG1122	Lower Back Injury, Blunt	SD4075	AMB spinal injury
+SG1122	Lower Back Injury, Blunt	SD4090	AMB vaginal bleeding
+SG1122	Lower Back Injury, Blunt	SD4103	AMB unable to weight bear
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4010	ALL assault, sexual
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4017	AMB gastrointestinal bleed
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4052	ED full ED assessment and management capability
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4060	AMB acute abdomen
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4075	AMB spinal injury
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4087	AMB cord prolapse
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4088	AMB imminent birth
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4090	AMB vaginal bleeding
+SG1123	Lower Back Injury, Blunt, Pregnant	SD4103	AMB unable to weight bear
+SG1124	Lower Back Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1124	Lower Back Injury, Penetrating	SD4004	AMB foreign body, wound, large
+SG1124	Lower Back Injury, Penetrating	SD4008	AMB motor and/or sensory deficit
+SG1124	Lower Back Injury, Penetrating	SD4010	ALL assault, sexual
+SG1124	Lower Back Injury, Penetrating	SD4017	AMB gastrointestinal bleed
+SG1124	Lower Back Injury, Penetrating	SD4018	AMB severe pain
+SG1124	Lower Back Injury, Penetrating	SD4033	AMB new/worsening breathlessness
+SG1124	Lower Back Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1124	Lower Back Injury, Penetrating	SD4060	AMB acute abdomen
+SG1124	Lower Back Injury, Penetrating	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1124	Lower Back Injury, Penetrating	SD4075	AMB spinal injury
+SG1124	Lower Back Injury, Penetrating	SD4077	AMB motor/sensory deficit AND wound, foreign body, large
+SG1124	Lower Back Injury, Penetrating	SD4090	AMB vaginal bleeding
+SG1124	Lower Back Injury, Penetrating	SD4103	AMB unable to weight bear
+SG1124	Lower Back Injury, Penetrating	SD4104	AMB motor/sensory deficit, spine
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4004	AMB foreign body, wound, large
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4010	ALL assault, sexual
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4017	AMB gastrointestinal bleed
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4052	ED full ED assessment and management capability
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4060	AMB acute abdomen
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4074	AMB new/worsening breathlessness AND wound, foreign body, large
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4075	AMB spinal injury
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4087	AMB cord prolapse
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4088	AMB imminent birth
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4089	AMB labour
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4103	AMB unable to weight bear
+SG1125	Lower Back Injury, Penetrating, Pregnant	SD4137	AMB vaginal bleeding, pregnant
+SG1126	Lower Back Pain	SD4000	AMB septicaemia
+SG1126	Lower Back Pain	SD4003	PC full Primary Care assessment and prescribing capability
+SG1126	Lower Back Pain	SD4017	AMB gastrointestinal bleed
+SG1126	Lower Back Pain	SD4019	AMB toxic ingestion
+SG1126	Lower Back Pain	SD4026	AMB deep vein thrombosis
+SG1126	Lower Back Pain	SD4027	AMB ischaemia, non-trauma
+SG1126	Lower Back Pain	SD4029	AMB spinal cord compression
+SG1126	Lower Back Pain	SD4052	ED full ED assessment and management capability
+SG1126	Lower Back Pain	SD4060	AMB acute abdomen
+SG1126	Lower Back Pain	SD4250	AMB ectopic pregnancy
+SG1126	Lower Back Pain	SD4459	AMB critical illness assessment
+SG1126	Lower Back Pain	SD4460	PC severe illness assessment capability
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4017	AMB gastrointestinal bleed
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4018	AMB severe pain
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4019	AMB toxic ingestion
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4026	AMB deep vein thrombosis
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4027	AMB ischaemia, non-trauma
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4029	AMB spinal cord compression
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4087	AMB cord prolapse
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4088	AMB imminent birth
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4089	AMB labour
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4090	AMB vaginal bleeding
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4100	AMB placental abruption
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4112	PC full obstetric assessment and management capability
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4455	PC suspected pre-eclampsia
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4459	AMB critical illness assessment
+SG1127	Lower Back Pain, Pregnant, Over 20 weeks	SD4460	PC severe illness assessment capability
+SG1128	Lower Limb Pain or Swelling	SD4000	AMB septicaemia
+SG1128	Lower Limb Pain or Swelling	SD4002	AMB meningitis
+SG1128	Lower Limb Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1128	Lower Limb Pain or Swelling	SD4026	AMB deep vein thrombosis
+SG1128	Lower Limb Pain or Swelling	SD4027	AMB ischaemia, non-trauma
+SG1128	Lower Limb Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1128	Lower Limb Pain or Swelling	SD4460	PC severe illness assessment capability
+SG1129	Mouth Ulcers	SD4003	PC full Primary Care assessment and prescribing capability
+SG1129	Mouth Ulcers	SD4020	PC assessment and management capability, minor condition
+SG1129	Mouth Ulcers	SD4047	PC full dental assessment and prescribing capability
+SG1129	Mouth Ulcers	SD4052	ED full ED assessment and management capability
+SG1130	Nasal Congestion	SD4000	AMB septicaemia
+SG1130	Nasal Congestion	SD4002	AMB meningitis
+SG1130	Nasal Congestion	SD4003	PC full Primary Care assessment and prescribing capability
+SG1130	Nasal Congestion	SD4017	AMB gastrointestinal bleed
+SG1130	Nasal Congestion	SD4020	PC assessment and management capability, minor condition
+SG1130	Nasal Congestion	SD4022	ED foreign body, removal required
+SG1130	Nasal Congestion	SD4023	AMB toxic inhalation
+SG1130	Nasal Congestion	SD4033	AMB new/worsening breathlessness
+SG1130	Nasal Congestion	SD4052	ED full ED assessment and management capability
+SG1130	Nasal Congestion	SD4072	ED testicular torsion
+SG1130	Nasal Congestion	SD4101	AMB anaphylaxis
+SG1130	Nasal Congestion	SD4102	AMB respiratory distress
+SG1130	Nasal Congestion	SD4107	AMB apnoeic episode
+SG1130	Nasal Congestion	SD4108	AMB decreased conscious level
+SG1130	Nasal Congestion	SD4402	PC viral haemorrhagic fever
+SG1130	Nasal Congestion	SD4403	ED viral haemorrhagic fever
+SG1130	Nasal Congestion	SD4404	AMB viral haemorrhagic fever
+SG1130	Nasal Congestion	SD4405	PC skin, yellow
+SG1130	Nasal Congestion	SD4460	PC severe illness assessment capability
+SG1131	Nosebleeds without injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1131	Nosebleeds without injury	SD4022	ED foreign body, removal required
+SG1131	Nosebleeds without injury	SD4052	ED full ED assessment and management capability
+SG1132	Nosebleeds, Traumatic	SD4003	PC full Primary Care assessment and prescribing capability
+SG1132	Nosebleeds, Traumatic	SD4010	ALL assault, sexual
+SG1132	Nosebleeds, Traumatic	SD4022	ED foreign body, removal required
+SG1132	Nosebleeds, Traumatic	SD4043	AMB major head/neck injury
+SG1132	Nosebleeds, Traumatic	SD4052	ED full ED assessment and management capability
+SG1132	Nosebleeds, Traumatic	SD4091	AMB Head injury, full ED assessment required
+SG1133	Numbness or Pins and Needles	SD4001	AMB acute coronary syndrome
+SG1133	Numbness or Pins and Needles	SD4003	PC full Primary Care assessment and prescribing capability
+SG1133	Numbness or Pins and Needles	SD4028	AMB stroke
+SG1133	Numbness or Pins and Needles	SD4029	AMB spinal cord compression
+SG1133	Numbness or Pins and Needles	SD4043	AMB major head/neck injury
+SG1133	Numbness or Pins and Needles	SD4052	ED full ED assessment and management capability
+SG1133	Numbness or Pins and Needles	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1133	Numbness or Pins and Needles	SD4406	AMB acute neurological deficit
+SG1134	Other Dental Problems - Fillings, Crowns Bridges, Appliances etc	SD4003	PC full Primary Care assessment and prescribing capability
+SG1134	Other Dental Problems - Fillings, Crowns Bridges, Appliances etc	SD4047	PC full dental assessment and prescribing capability
+SG1134	Other Dental Problems - Fillings, Crowns Bridges, Appliances etc	SD4052	ED full ED assessment and management capability
+SG1134	Other Dental Problems - Fillings, Crowns Bridges, Appliances etc	SD4167	AMB analgesia overdose, accidental
+SG1134	Other Dental Problems - Fillings, Crowns Bridges, Appliances etc	SD4392	PC dental brace problem
+SG1135	Pain and/or Frequency Passing Urine	SD4003	PC full Primary Care assessment and prescribing capability
+SG1135	Pain and/or Frequency Passing Urine	SD4020	PC assessment and management capability, minor condition
+SG1135	Pain and/or Frequency Passing Urine	SD4031	PC sexually transmitted infection
+SG1135	Pain and/or Frequency Passing Urine	SD4052	ED full ED assessment and management capability
+SG1135	Pain and/or Frequency Passing Urine	SD4459	AMB critical illness assessment
+SG1135	Pain and/or Frequency Passing Urine	SD4460	PC severe illness assessment capability
+SG1136	Pain, Frequency and/or Difficulty Passing Urine	SD4003	PC full Primary Care assessment and prescribing capability
+SG1136	Pain, Frequency and/or Difficulty Passing Urine	SD4052	ED full ED assessment and management capability
+SG1136	Pain, Frequency and/or Difficulty Passing Urine	SD4460	PC severe illness assessment capability
+SG1137	Palpitations	SD4001	AMB acute coronary syndrome
+SG1137	Palpitations	SD4003	PC full Primary Care assessment and prescribing capability
+SG1137	Palpitations	SD4028	AMB stroke
+SG1137	Palpitations	SD4033	AMB new/worsening breathlessness
+SG1137	Palpitations	SD4042	AMB hypothermia
+SG1137	Palpitations	SD4046	AMB unconsciousness, recent
+SG1137	Palpitations	SD4049	AMB heat stroke
+SG1137	Palpitations	SD4052	ED full ED assessment and management capability
+SG1137	Palpitations	SD4097	AMB palpitations
+SG1137	Palpitations	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1137	Palpitations	SD4388	AMB ICD implanted
+SG1137	Palpitations	SD4406	AMB acute neurological deficit
+SG1138	Palpitations, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1138	Palpitations, Pregnant	SD4028	AMB stroke
+SG1138	Palpitations, Pregnant	SD4033	AMB new/worsening breathlessness
+SG1138	Palpitations, Pregnant	SD4042	AMB hypothermia
+SG1138	Palpitations, Pregnant	SD4046	AMB unconsciousness, recent
+SG1138	Palpitations, Pregnant	SD4049	AMB heat stroke
+SG1138	Palpitations, Pregnant	SD4052	ED full ED assessment and management capability
+SG1138	Palpitations, Pregnant	SD4097	AMB palpitations
+SG1138	Palpitations, Pregnant	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1138	Palpitations, Pregnant	SD4388	AMB ICD implanted
+SG1138	Palpitations, Pregnant	SD4406	AMB acute neurological deficit
+SG1139	Plaster Cast Problems	SD4052	ED full ED assessment and management capability
+SG1139	Plaster Cast Problems	SD4140	ED tight/painful plaster
+SG1139	Plaster Cast Problems	SD4141	ED loose/damaged plaster
+SG1139	Plaster Cast Problems	SD4146	ED ischaemia, digit/s
+SG1139	Plaster Cast Problems	SD4305	ED local infection
+SG1140	Predetermined Management Plan	SD4003	PC full Primary Care assessment and prescribing capability
+SG1140	Predetermined Management Plan	SD4047	PC full dental assessment and prescribing capability
+SG1140	Predetermined Management Plan	SD4052	ED full ED assessment and management capability
+SG1140	Predetermined Management Plan	SD4118	AMB ambulance dispatch
+SG1140	Predetermined Management Plan	SD4143	PC palliative care service
+SG1140	Predetermined Management Plan	SD4170	PC syringe driver management capability - palliative care services
+SG1140	Predetermined Management Plan	SD4244	AMB suicidal, means and plan
+SG1140	Predetermined Management Plan	SD4245	ED suicidal, no means nor plan
+SG1140	Predetermined Management Plan	SD4316	PC Community Healthcare Professional
+SG1140	Predetermined Management Plan	SD4317	CN Health Visitor
+SG1140	Predetermined Management Plan	SD4323	CN Community Nurse
+SG1140	Predetermined Management Plan	SD4324	CN Community Midwife
+SG1140	Predetermined Management Plan	SD4326	PC Community Healthcare Professional Service Location
+SG1140	Predetermined Management Plan	SD4456	PC full mental health assessment capability
+SG1141	Probable Stroke	SD4000	AMB septicaemia
+SG1141	Probable Stroke	SD4001	AMB acute coronary syndrome
+SG1141	Probable Stroke	SD4002	AMB meningitis
+SG1141	Probable Stroke	SD4035	AMB subarachnoid haemorrhage
+SG1141	Probable Stroke	SD4046	AMB unconsciousness, recent
+SG1141	Probable Stroke	SD4052	ED full ED assessment and management capability
+SG1141	Probable Stroke	SD4098	AMB recent head injury
+SG1141	Probable Stroke	SD4106	AMB shock
+SG1141	Probable Stroke	SD4109	AMB stroke
+SG1141	Probable Stroke	SD4134	ED full ophthalmic ED assessment and management capability
+SG1141	Probable Stroke	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1143	Rectal Bleeding	SD4000	AMB septicaemia
+SG1143	Rectal Bleeding	SD4001	AMB acute coronary syndrome
+SG1143	Rectal Bleeding	SD4003	PC full Primary Care assessment and prescribing capability
+SG1143	Rectal Bleeding	SD4010	ALL assault, sexual
+SG1143	Rectal Bleeding	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1143	Rectal Bleeding	SD4017	AMB gastrointestinal bleed
+SG1143	Rectal Bleeding	SD4033	AMB new/worsening breathlessness
+SG1143	Rectal Bleeding	SD4052	ED full ED assessment and management capability
+SG1143	Rectal Bleeding	SD4060	AMB acute abdomen
+SG1143	Rectal Bleeding	SD4153	AMB bleeding, significant
+SG1143	Rectal Bleeding	SD4250	AMB ectopic pregnancy
+SG1144	Rectal Pain, Swelling, Lump or Itch	SD4003	PC full Primary Care assessment and prescribing capability
+SG1144	Rectal Pain, Swelling, Lump or Itch	SD4010	ALL assault, sexual
+SG1144	Rectal Pain, Swelling, Lump or Itch	SD4020	PC assessment and management capability, minor condition
+SG1144	Rectal Pain, Swelling, Lump or Itch	SD4052	ED full ED assessment and management capability
+SG1145	Scratches and Grazes	SD4003	PC full Primary Care assessment and prescribing capability
+SG1145	Scratches and Grazes	SD4010	ALL assault, sexual
+SG1145	Scratches and Grazes	SD4052	ED full ED assessment and management capability
+SG1145	Scratches and Grazes	SD4092	AMB fall, environmental exposure
+SG1145	Scratches and Grazes	SD4093	AMB fall, unable to get up
+SG1145	Scratches and Grazes	SD4130	PC rabies risk
+SG1145	Scratches and Grazes	SD4138	ED wound, contaminated
+SG1145	Scratches and Grazes	SD4480	AMB fall,  over 2 hours on floor
+SG1146	Sexual Problems or Concerns	SD4003	PC full Primary Care assessment and prescribing capability
+SG1146	Sexual Problems or Concerns	SD4010	ALL assault, sexual
+SG1146	Sexual Problems or Concerns	SD4022	ED foreign body, removal required
+SG1146	Sexual Problems or Concerns	SD4031	PC sexually transmitted infection
+SG1146	Sexual Problems or Concerns	SD4038	PC genital herpes, recurrent
+SG1146	Sexual Problems or Concerns	SD4040	PC stress incontinence
+SG1146	Sexual Problems or Concerns	SD4041	PC contraception issue
+SG1146	Sexual Problems or Concerns	SD4052	ED full ED assessment and management capability
+SG1146	Sexual Problems or Concerns	SD4055	PC sexual identity/activity issue
+SG1146	Sexual Problems or Concerns	SD4056	ED toxic shock syndrome
+SG1146	Sexual Problems or Concerns	SD4058	ED foreign body, rectum
+SG1146	Sexual Problems or Concerns	SD4066	PC retained tampon, condom or cap
+SG1146	Sexual Problems or Concerns	SD4081	ED foreign body, skin, small
+SG1146	Sexual Problems or Concerns	SD4416	PC support pessary displaced and/ or removal required
+SG1146	Sexual Problems or Concerns	SD4417	PC intrauterine coil displaced and/ or removal required
+SG1147	Shoulder Pain	SD4001	AMB acute coronary syndrome
+SG1147	Shoulder Pain	SD4003	PC full Primary Care assessment and prescribing capability
+SG1147	Shoulder Pain	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1147	Shoulder Pain	SD4026	AMB deep vein thrombosis
+SG1147	Shoulder Pain	SD4027	AMB ischaemia, non-trauma
+SG1147	Shoulder Pain	SD4033	AMB new/worsening breathlessness
+SG1147	Shoulder Pain	SD4052	ED full ED assessment and management capability
+SG1147	Shoulder Pain	SD4134	ED full ophthalmic ED assessment and management capability
+SG1148	Sinusitis	SD4000	AMB septicaemia
+SG1148	Sinusitis	SD4002	AMB meningitis
+SG1148	Sinusitis	SD4003	PC full Primary Care assessment and prescribing capability
+SG1148	Sinusitis	SD4022	ED foreign body, removal required
+SG1148	Sinusitis	SD4052	ED full ED assessment and management capability
+SG1148	Sinusitis	SD4134	ED full ophthalmic ED assessment and management capability
+SG1148	Sinusitis	SD4460	PC severe illness assessment capability
+SG1149	Skin Lumps	SD4003	PC full Primary Care assessment and prescribing capability
+SG1150	Skin, Glued	SD4003	PC full Primary Care assessment and prescribing capability
+SG1150	Skin, Glued	SD4052	ED full ED assessment and management capability
+SG1150	Skin, Glued	SD4134	ED full ophthalmic ED assessment and management capability
+SG1151	Skin, Minor Foreign Body	SD4003	PC full Primary Care assessment and prescribing capability
+SG1151	Skin, Minor Foreign Body	SD4010	ALL assault, sexual
+SG1151	Skin, Minor Foreign Body	SD4052	ED full ED assessment and management capability
+SG1151	Skin, Minor Foreign Body	SD4081	ED foreign body, skin, small
+SG1152	Skin, Rash	SD4000	AMB septicaemia
+SG1152	Skin, Rash	SD4002	AMB meningitis
+SG1152	Skin, Rash	SD4003	PC full Primary Care assessment and prescribing capability
+SG1152	Skin, Rash	SD4010	ALL assault, sexual
+SG1152	Skin, Rash	SD4031	PC sexually transmitted infection
+SG1152	Skin, Rash	SD4038	PC genital herpes, recurrent
+SG1152	Skin, Rash	SD4052	ED full ED assessment and management capability
+SG1152	Skin, Rash	SD4124	AMB seriously ill infant
+SG1152	Skin, Rash	SD4459	AMB critical illness assessment
+SG1152	Skin, Rash	SD4460	PC severe illness assessment capability
+SG1153	Skin, Yellow	SD4000	AMB septicaemia
+SG1153	Skin, Yellow	SD4003	PC full Primary Care assessment and prescribing capability
+SG1153	Skin, Yellow	SD4052	ED full ED assessment and management capability
+SG1153	Skin, Yellow	SD4060	AMB acute abdomen
+SG1153	Skin, Yellow	SD4167	AMB analgesia overdose, accidental
+SG1154	Sleep Difficulties	SD4003	PC full Primary Care assessment and prescribing capability
+SG1154	Sleep Difficulties	SD4052	ED full ED assessment and management capability
+SG1154	Sleep Difficulties	SD4177	PC depressed mood
+SG1154	Sleep Difficulties	SD4179	PC anxiety/panic
+SG1154	Sleep Difficulties	SD4180	PC mental health assessment, alcohol misuse
+SG1154	Sleep Difficulties	SD4181	PC mental health assessment, drug misuse
+SG1154	Sleep Difficulties	SD4183	PC mental health assessment, solvent misuse
+SG1154	Sleep Difficulties	SD4244	AMB suicidal, means and plan
+SG1154	Sleep Difficulties	SD4245	ED suicidal, no means nor plan
+SG1155	Social or Domestic Emergency	SD4003	PC full Primary Care assessment and prescribing capability
+SG1155	Social or Domestic Emergency	SD4010	ALL assault, sexual
+SG1155	Social or Domestic Emergency	SD4045	AMB aggression/violence
+SG1155	Social or Domestic Emergency	SD4052	ED full ED assessment and management capability
+SG1155	Social or Domestic Emergency	SD4054	PC substance misuse
+SG1155	Social or Domestic Emergency	SD4244	AMB suicidal, means and plan
+SG1155	Social or Domestic Emergency	SD4245	ED suicidal, no means nor plan
+SG1155	Social or Domestic Emergency	SD4319	PC alcohol drug withdrawal
+SG1155	Social or Domestic Emergency	SD4456	PC full mental health assessment capability
+SG1156	Sore Throat or Hoarse Voice	SD4000	AMB septicaemia
+SG1156	Sore Throat or Hoarse Voice	SD4001	AMB acute coronary syndrome
+SG1156	Sore Throat or Hoarse Voice	SD4002	AMB meningitis
+SG1156	Sore Throat or Hoarse Voice	SD4003	PC full Primary Care assessment and prescribing capability
+SG1156	Sore Throat or Hoarse Voice	SD4052	ED full ED assessment and management capability
+SG1156	Sore Throat or Hoarse Voice	SD4389	ED post tonsillectomy bleeding
+SG1156	Sore Throat or Hoarse Voice	SD4402	PC viral haemorrhagic fever
+SG1156	Sore Throat or Hoarse Voice	SD4403	ED viral haemorrhagic fever
+SG1156	Sore Throat or Hoarse Voice	SD4404	AMB viral haemorrhagic fever
+SG1156	Sore Throat or Hoarse Voice	SD4460	PC severe illness assessment capability
+SG1157	Stoma Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1157	Stoma Problems	SD4010	ALL assault, sexual
+SG1157	Stoma Problems	SD4017	AMB gastrointestinal bleed
+SG1157	Stoma Problems	SD4033	AMB new/worsening breathlessness
+SG1157	Stoma Problems	SD4052	ED full ED assessment and management capability
+SG1157	Stoma Problems	SD4153	AMB bleeding, significant
+SG1157	Stoma Problems	SD4318	PC Stoma Management
+SG1158	Sunburn	SD4003	PC full Primary Care assessment and prescribing capability
+SG1158	Sunburn	SD4033	AMB new/worsening breathlessness
+SG1158	Sunburn	SD4046	AMB unconsciousness, recent
+SG1158	Sunburn	SD4048	AMB fit/convulsion
+SG1158	Sunburn	SD4049	AMB heat stroke
+SG1158	Sunburn	SD4050	ED dehydration
+SG1158	Sunburn	SD4052	ED full ED assessment and management capability
+SG1158	Sunburn	SD4062	ED welding flash/UV exposure
+SG1158	Sunburn	SD4097	AMB palpitations
+SG1158	Sunburn	SD4312	ED extended ophthalmic assessment and prescribing capability (MECS)
+SG1159	Symptoms without specific Pathway	SD4000	AMB septicaemia
+SG1159	Symptoms without specific Pathway	SD4001	AMB acute coronary syndrome
+SG1159	Symptoms without specific Pathway	SD4002	AMB meningitis
+SG1159	Symptoms without specific Pathway	SD4003	PC full Primary Care assessment and prescribing capability
+SG1159	Symptoms without specific Pathway	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1159	Symptoms without specific Pathway	SD4017	AMB gastrointestinal bleed
+SG1159	Symptoms without specific Pathway	SD4019	AMB toxic ingestion
+SG1159	Symptoms without specific Pathway	SD4026	AMB deep vein thrombosis
+SG1159	Symptoms without specific Pathway	SD4027	AMB ischaemia, non-trauma
+SG1159	Symptoms without specific Pathway	SD4028	AMB stroke
+SG1159	Symptoms without specific Pathway	SD4029	AMB spinal cord compression
+SG1159	Symptoms without specific Pathway	SD4052	ED full ED assessment and management capability
+SG1159	Symptoms without specific Pathway	SD4060	AMB acute abdomen
+SG1159	Symptoms without specific Pathway	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1159	Symptoms without specific Pathway	SD4250	AMB ectopic pregnancy
+SG1159	Symptoms without specific Pathway	SD4406	AMB acute neurological deficit
+SG1159	Symptoms without specific Pathway	SD4459	AMB critical illness assessment
+SG1159	Symptoms without specific Pathway	SD4460	PC severe illness assessment capability
+SG1159	Symptoms without specific Pathway	SD4481	PC mechanical low back pain
+SG1160	Tattoos, Birthmarks or Moles	SD4003	PC full Primary Care assessment and prescribing capability
+SG1160	Tattoos, Birthmarks or Moles	SD4020	PC assessment and management capability, minor condition
+SG1160	Tattoos, Birthmarks or Moles	SD4052	ED full ED assessment and management capability
+SG1161	Teething	SD4003	PC full Primary Care assessment and prescribing capability
+SG1161	Teething	SD4052	ED full ED assessment and management capability
+SG1162	Tiredness (Fatigue)	SD4003	PC full Primary Care assessment and prescribing capability
+SG1162	Tiredness (Fatigue)	SD4177	PC depressed mood
+SG1162	Tiredness (Fatigue)	SD4179	PC anxiety/panic
+SG1162	Tiredness (Fatigue)	SD4180	PC mental health assessment, alcohol misuse
+SG1162	Tiredness (Fatigue)	SD4181	PC mental health assessment, drug misuse
+SG1162	Tiredness (Fatigue)	SD4244	AMB suicidal, means and plan
+SG1162	Tiredness (Fatigue)	SD4245	ED suicidal, no means nor plan
+SG1163	Tiredness (Fatigue), Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1163	Tiredness (Fatigue), Pregnant	SD4177	PC depressed mood
+SG1163	Tiredness (Fatigue), Pregnant	SD4179	PC anxiety/panic
+SG1163	Tiredness (Fatigue), Pregnant	SD4180	PC mental health assessment, alcohol misuse
+SG1163	Tiredness (Fatigue), Pregnant	SD4181	PC mental health assessment, drug misuse
+SG1163	Tiredness (Fatigue), Pregnant	SD4244	AMB suicidal, means and plan
+SG1163	Tiredness (Fatigue), Pregnant	SD4245	ED suicidal, no means nor plan
+SG1163	Tiredness (Fatigue), Pregnant	SD4455	PC suspected pre-eclampsia
+SG1164	Toe Injury, Blunt	SD4003	PC full Primary Care assessment and prescribing capability
+SG1164	Toe Injury, Blunt	SD4010	ALL assault, sexual
+SG1164	Toe Injury, Blunt	SD4014	ED constricting object, removal required
+SG1164	Toe Injury, Blunt	SD4052	ED full ED assessment and management capability
+SG1164	Toe Injury, Blunt	SD4092	AMB fall, environmental exposure
+SG1164	Toe Injury, Blunt	SD4093	AMB fall, unable to get up
+SG1164	Toe Injury, Blunt	SD4127	ED subungual haematoma
+SG1164	Toe Injury, Blunt	SD4129	PC minor injury
+SG1164	Toe Injury, Blunt	SD4480	AMB fall,  over 2 hours on floor
+SG1165	Toe Injury, Penetrating	SD4003	PC full Primary Care assessment and prescribing capability
+SG1165	Toe Injury, Penetrating	SD4009	ED amputation, digit
+SG1165	Toe Injury, Penetrating	SD4010	ALL assault, sexual
+SG1165	Toe Injury, Penetrating	SD4014	ED constricting object, removal required
+SG1165	Toe Injury, Penetrating	SD4052	ED full ED assessment and management capability
+SG1165	Toe Injury, Penetrating	SD4092	AMB fall, environmental exposure
+SG1165	Toe Injury, Penetrating	SD4093	AMB fall, unable to get up
+SG1165	Toe Injury, Penetrating	SD4480	AMB fall,  over 2 hours on floor
+SG1166	Toe Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1166	Toe Pain or Swelling	SD4014	ED constricting object, removal required
+SG1166	Toe Pain or Swelling	SD4020	PC assessment and management capability, minor condition
+SG1168	Toothache After Dental Injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1168	Toothache After Dental Injury	SD4010	ALL assault, sexual
+SG1168	Toothache After Dental Injury	SD4047	PC full dental assessment and prescribing capability
+SG1168	Toothache After Dental Injury	SD4052	ED full ED assessment and management capability
+SG1168	Toothache After Dental Injury	SD4167	AMB analgesia overdose, accidental
+SG1168	Toothache After Dental Injury	SD4392	PC dental brace problem
+SG1168	Toothache After Dental Injury	SD4411	PC dental trauma, tooth avulsion
+SG1169	Toothache Without Dental Injury	SD4001	AMB acute coronary syndrome
+SG1169	Toothache Without Dental Injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1169	Toothache Without Dental Injury	SD4047	PC full dental assessment and prescribing capability
+SG1169	Toothache Without Dental Injury	SD4052	ED full ED assessment and management capability
+SG1169	Toothache Without Dental Injury	SD4167	AMB analgesia overdose, accidental
+SG1169	Toothache Without Dental Injury	SD4392	PC dental brace problem
+SG1169	Toothache Without Dental Injury	SD4475	ALL Full Assessment Capability, chest pain
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4003	PC full Primary Care assessment and prescribing capability
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4017	AMB gastrointestinal bleed
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4018	AMB severe pain
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4019	AMB toxic ingestion
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4033	AMB new/worsening breathlessness
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4034	AMB haemoptysis
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4046	AMB unconsciousness, recent
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4052	ED full ED assessment and management capability
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4097	AMB palpitations
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4119	AMB medication/toxic substance overdose, high risk
+SG1170	Toxic Ingestion/Inhalation/Overdose	SD4244	AMB suicidal, means and plan
+SG1171	Tube and Drain Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1171	Tube and Drain Problems	SD4052	ED full ED assessment and management capability
+SG1171	Tube and Drain Problems	SD4114	PC management of dressings
+SG1171	Tube and Drain Problems	SD4120	PC syringe driver management capability
+SG1171	Tube and Drain Problems	SD4121	PC peritoneal dialysis catheter management capability
+SG1171	Tube and Drain Problems	SD4122	PC central venous line management capability
+SG1171	Tube and Drain Problems	SD4123	PC enteral feeding tube management capability
+SG1171	Tube and Drain Problems	SD4125	PC drain management capability
+SG1171	Tube and Drain Problems	SD4399	PC insulin pump management capability
+SG1172	Unwell, Under 1 Year Old	SD4000	AMB septicaemia
+SG1172	Unwell, Under 1 Year Old	SD4003	PC full Primary Care assessment and prescribing capability
+SG1172	Unwell, Under 1 Year Old	SD4017	AMB gastrointestinal bleed
+SG1172	Unwell, Under 1 Year Old	SD4023	AMB toxic inhalation
+SG1172	Unwell, Under 1 Year Old	SD4033	AMB new/worsening breathlessness
+SG1172	Unwell, Under 1 Year Old	SD4052	ED full ED assessment and management capability
+SG1172	Unwell, Under 1 Year Old	SD4072	ED testicular torsion
+SG1172	Unwell, Under 1 Year Old	SD4101	AMB anaphylaxis
+SG1172	Unwell, Under 1 Year Old	SD4102	AMB respiratory distress
+SG1172	Unwell, Under 1 Year Old	SD4107	AMB apnoeic episode
+SG1172	Unwell, Under 1 Year Old	SD4108	AMB decreased conscious level
+SG1172	Unwell, Under 1 Year Old	SD4402	PC viral haemorrhagic fever
+SG1172	Unwell, Under 1 Year Old	SD4403	ED viral haemorrhagic fever
+SG1172	Unwell, Under 1 Year Old	SD4404	AMB viral haemorrhagic fever
+SG1172	Unwell, Under 1 Year Old	SD4405	PC skin, yellow
+SG1172	Unwell, Under 1 Year Old	SD4460	PC severe illness assessment capability
+SG1173	Urinary catheter Problems	SD4000	AMB septicaemia
+SG1173	Urinary catheter Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1173	Urinary catheter Problems	SD4052	ED full ED assessment and management capability
+SG1173	Urinary catheter Problems	SD4070	PC urinary catheter management capability
+SG1173	Urinary catheter Problems	SD4073	PC urinary catheter problem AND fever
+SG1173	Urinary catheter Problems	SD4377	RP ED urinary catheter problem
+SG1173	Urinary catheter Problems	SD4459	AMB critical illness assessment
+SG1173	Urinary catheter Problems	SD4460	PC severe illness assessment capability
+SG1174	Vaginal Bleeding	SD4000	AMB septicaemia
+SG1174	Vaginal Bleeding	SD4002	AMB meningitis
+SG1174	Vaginal Bleeding	SD4003	PC full Primary Care assessment and prescribing capability
+SG1174	Vaginal Bleeding	SD4010	ALL assault, sexual
+SG1174	Vaginal Bleeding	SD4052	ED full ED assessment and management capability
+SG1174	Vaginal Bleeding	SD4057	ED foreign body, vagina
+SG1174	Vaginal Bleeding	SD4060	AMB acute abdomen
+SG1174	Vaginal Bleeding	SD4153	AMB bleeding, significant
+SG1174	Vaginal Bleeding	SD4250	AMB ectopic pregnancy
+SG1174	Vaginal Bleeding	SD4455	PC suspected pre-eclampsia
+SG1174	Vaginal Bleeding	SD4460	PC severe illness assessment capability
+SG1175	Vaginal Bleeding, Pregnant	SD4003	PC full Primary Care assessment and prescribing capability
+SG1175	Vaginal Bleeding, Pregnant	SD4010	ALL assault, sexual
+SG1175	Vaginal Bleeding, Pregnant	SD4052	ED full ED assessment and management capability
+SG1175	Vaginal Bleeding, Pregnant	SD4060	AMB acute abdomen
+SG1175	Vaginal Bleeding, Pregnant	SD4068	AMB hypotension
+SG1175	Vaginal Bleeding, Pregnant	SD4089	AMB labour
+SG1175	Vaginal Bleeding, Pregnant	SD4112	PC full obstetric assessment and management capability
+SG1175	Vaginal Bleeding, Pregnant	SD4115	AMB vaginal bleeding, heavy
+SG1175	Vaginal Bleeding, Pregnant	SD4116	AMB abdominal pain
+SG1175	Vaginal Bleeding, Pregnant	SD4250	AMB ectopic pregnancy
+SG1176	Vaginal Discharge	SD4003	PC full Primary Care assessment and prescribing capability
+SG1176	Vaginal Discharge	SD4010	ALL assault, sexual
+SG1176	Vaginal Discharge	SD4020	PC assessment and management capability, minor condition
+SG1176	Vaginal Discharge	SD4031	PC sexually transmitted infection
+SG1176	Vaginal Discharge	SD4052	ED full ED assessment and management capability
+SG1176	Vaginal Discharge	SD4057	ED foreign body, vagina
+SG1176	Vaginal Discharge	SD4060	AMB acute abdomen
+SG1176	Vaginal Discharge	SD4112	PC full obstetric assessment and management capability
+SG1176	Vaginal Discharge	SD4250	AMB ectopic pregnancy
+SG1177	Vaginal Itch or Soreness	SD4003	PC full Primary Care assessment and prescribing capability
+SG1177	Vaginal Itch or Soreness	SD4010	ALL assault, sexual
+SG1177	Vaginal Itch or Soreness	SD4020	PC assessment and management capability, minor condition
+SG1177	Vaginal Itch or Soreness	SD4031	PC sexually transmitted infection
+SG1177	Vaginal Itch or Soreness	SD4038	PC genital herpes, recurrent
+SG1177	Vaginal Itch or Soreness	SD4052	ED full ED assessment and management capability
+SG1177	Vaginal Itch or Soreness	SD4056	ED toxic shock syndrome
+SG1177	Vaginal Itch or Soreness	SD4057	ED foreign body, vagina
+SG1177	Vaginal Itch or Soreness	SD4066	PC retained tampon, condom or cap
+SG1178	Vaginal Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1178	Vaginal Swelling	SD4010	ALL assault, sexual
+SG1178	Vaginal Swelling	SD4052	ED full ED assessment and management capability
+SG1178	Vaginal Swelling	SD4060	AMB acute abdomen
+SG1179	Vomiting	SD4000	AMB septicaemia
+SG1179	Vomiting	SD4001	AMB acute coronary syndrome
+SG1179	Vomiting	SD4002	AMB meningitis
+SG1179	Vomiting	SD4003	PC full Primary Care assessment and prescribing capability
+SG1179	Vomiting	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1179	Vomiting	SD4017	AMB gastrointestinal bleed
+SG1179	Vomiting	SD4019	AMB toxic ingestion
+SG1179	Vomiting	SD4028	AMB stroke
+SG1179	Vomiting	SD4035	AMB subarachnoid haemorrhage
+SG1179	Vomiting	SD4052	ED full ED assessment and management capability
+SG1179	Vomiting	SD4060	AMB acute abdomen
+SG1179	Vomiting	SD4134	ED full ophthalmic ED assessment and management capability
+SG1179	Vomiting	SD4171	PC full Primary Care TIA assessment and prescribing capability
+SG1179	Vomiting	SD4250	AMB ectopic pregnancy
+SG1179	Vomiting	SD4325	AMB faecal vomiting
+SG1179	Vomiting	SD4402	PC viral haemorrhagic fever
+SG1179	Vomiting	SD4403	ED viral haemorrhagic fever
+SG1179	Vomiting	SD4404	AMB viral haemorrhagic fever
+SG1179	Vomiting	SD4406	AMB acute neurological deficit
+SG1179	Vomiting	SD4455	PC suspected pre-eclampsia
+SG1179	Vomiting	SD4459	AMB critical illness assessment
+SG1179	Vomiting	SD4460	PC severe illness assessment capability
+SG1180	Vomiting Blood	SD4000	AMB septicaemia
+SG1180	Vomiting Blood	SD4001	AMB acute coronary syndrome
+SG1180	Vomiting Blood	SD4002	AMB meningitis
+SG1180	Vomiting Blood	SD4003	PC full Primary Care assessment and prescribing capability
+SG1180	Vomiting Blood	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1180	Vomiting Blood	SD4017	AMB gastrointestinal bleed
+SG1180	Vomiting Blood	SD4018	AMB severe pain
+SG1180	Vomiting Blood	SD4019	AMB toxic ingestion
+SG1180	Vomiting Blood	SD4033	AMB new/worsening breathlessness
+SG1180	Vomiting Blood	SD4067	AMB high-risk group
+SG1180	Vomiting Blood	SD4068	AMB hypotension
+SG1180	Vomiting Blood	SD4389	ED post tonsillectomy bleeding
+SG1180	Vomiting Blood	SD4402	PC viral haemorrhagic fever
+SG1180	Vomiting Blood	SD4403	ED viral haemorrhagic fever
+SG1180	Vomiting Blood	SD4404	AMB viral haemorrhagic fever
+SG1180	Vomiting Blood	SD4460	PC severe illness assessment capability
+SG1181	Wound Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1181	Wound Problems	SD4052	ED full ED assessment and management capability
+SG1181	Wound Problems	SD4114	PC management of dressings
+SG1181	Wound Problems	SD4133	AMB burst abdomen
+SG1181	Wound Problems	SD4139	AMB ischaemia, limb
+SG1181	Wound Problems	SD4459	AMB critical illness assessment
+SG1181	Wound Problems	SD4460	PC severe illness assessment capability
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4001	AMB acute coronary syndrome
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4003	PC full Primary Care assessment and prescribing capability
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4014	ED constricting object, removal required
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4020	PC assessment and management capability, minor condition
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4027	AMB ischaemia, non-trauma
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4033	AMB new/worsening breathlessness
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4052	ED full ED assessment and management capability
+SG1182	Wrist, Hand or Finger Pain or Swelling	SD4455	PC suspected pre-eclampsia
+SG1183	Nail Injury	SD4003	PC full Primary Care assessment and prescribing capability
+SG1183	Nail Injury	SD4010	ALL assault, sexual
+SG1183	Nail Injury	SD4052	ED full ED assessment and management capability
+SG1183	Nail Injury	SD4126	ED nail avulsion
+SG1183	Nail Injury	SD4127	ED subungual haematoma
+SG1183	Nail Injury	SD4128	PC local infection
+SG1183	Nail Injury	SD4129	PC minor injury
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4003	PC full Primary Care assessment and prescribing capability
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4010	ALL assault, sexual
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4017	AMB gastrointestinal bleed
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4018	AMB severe pain
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4019	AMB toxic ingestion
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4052	ED full ED assessment and management capability
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4087	AMB cord prolapse
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4088	AMB imminent birth
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4089	AMB labour
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4100	AMB placental abruption
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4112	PC full obstetric assessment and management capability
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4153	AMB bleeding, significant
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4455	PC suspected pre-eclampsia
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4459	AMB critical illness assessment
+SG1184	Abdominal Pain, Rectal Bleeding, Pregnant Over 20 Weeks	SD4460	PC severe illness assessment capability
+SG1185	Drug, solvent, alcohol misuse	SD4003	PC full Primary Care assessment and prescribing capability
+SG1185	Drug, solvent, alcohol misuse	SD4036	PC alcohol misuse
+SG1185	Drug, solvent, alcohol misuse	SD4052	ED full ED assessment and management capability
+SG1185	Drug, solvent, alcohol misuse	SD4180	PC mental health assessment, alcohol misuse
+SG1185	Drug, solvent, alcohol misuse	SD4181	PC mental health assessment, drug misuse
+SG1185	Drug, solvent, alcohol misuse	SD4182	PC drug misuse, information
+SG1185	Drug, solvent, alcohol misuse	SD4183	PC mental health assessment, solvent misuse
+SG1185	Drug, solvent, alcohol misuse	SD4184	PC solvent misuse, information
+SG1185	Drug, solvent, alcohol misuse	SD4244	AMB suicidal, means and plan
+SG1185	Drug, solvent, alcohol misuse	SD4245	ED suicidal, no means nor plan
+SG1185	Drug, solvent, alcohol misuse	SD4319	PC alcohol drug withdrawal
+SG1186	Worsening known Mental health problem	SD4003	PC full Primary Care assessment and prescribing capability
+SG1186	Worsening known Mental health problem	SD4205	ED schizophrenia
+SG1186	Worsening known Mental health problem	SD4206	PC bipolar disorder
+SG1186	Worsening known Mental health problem	SD4207	PC chronic depression
+SG1186	Worsening known Mental health problem	SD4208	ED mania/hypomania
+SG1186	Worsening known Mental health problem	SD4209	PC generalised anxiety disorder
+SG1186	Worsening known Mental health problem	SD4210	PC Dementia/alzheimer's
+SG1186	Worsening known Mental health problem	SD4211	PC self-harm
+SG1186	Worsening known Mental health problem	SD4244	AMB suicidal, means and plan
+SG1186	Worsening known Mental health problem	SD4245	ED suicidal, no means nor plan
+SG1186	Worsening known Mental health problem	SD4302	PC mania/hypomania
+SG1186	Worsening known Mental health problem	SD4303	PC schizophrenia
+SG1187	Diabetes, Blood Sugar Problem	SD4000	AMB septicaemia
+SG1187	Diabetes, Blood Sugar Problem	SD4001	AMB acute coronary syndrome
+SG1187	Diabetes, Blood Sugar Problem	SD4003	PC full Primary Care assessment and prescribing capability
+SG1187	Diabetes, Blood Sugar Problem	SD4052	ED full ED assessment and management capability
+SG1187	Diabetes, Blood Sugar Problem	SD4106	AMB shock
+SG1187	Diabetes, Blood Sugar Problem	SD4113	AMB untreated/treatment failure
+SG1187	Diabetes, Blood Sugar Problem	SD4163	AMB diabetic ketoacidosis
+SG1187	Diabetes, Blood Sugar Problem	SD4164	AMB diabetic ketoacidosis in pregnancy
+SG1187	Diabetes, Blood Sugar Problem	SD4165	AMB diabetes AND confusion
+SG1187	Diabetes, Blood Sugar Problem	SD4169	AMB diabetes AND reduced conscious level
+SG1187	Diabetes, Blood Sugar Problem	SD4399	PC insulin pump management capability
+SG1187	Diabetes, Blood Sugar Problem	SD4457	AMB diabetes AND severely ill
+SG1187	Diabetes, Blood Sugar Problem	SD4459	AMB critical illness assessment
+SG1187	Diabetes, Blood Sugar Problem	SD4460	PC severe illness assessment capability
+SG1188	Deceased	SD4247	PC expected death, terminal illness
+SG1188	Deceased	SD4248	ALL unexpected death
+SG1190	Major Trauma	SD4044	AMB suicide attempt
+SG1191	Health and Social Information	SD4010	ALL assault, sexual
+SG1191	Health and Social Information	SD4192	PC medication enquiry
+SG1191	Health and Social Information	SD4193	PC general health information
+SG1191	Health and Social Information	SD4194	PC pharmacy, location information
+SG1191	Health and Social Information	SD4195	PC GP practice, location information
+SG1191	Health and Social Information	SD4196	PC sexual health service, location information
+SG1191	Health and Social Information	SD4197	PC optician, location information
+SG1191	Health and Social Information	SD4200	PC appointment request
+SG1191	Health and Social Information	SD4204	PC dental service, location information
+SG1191	Health and Social Information	SD4315	PC Healthcare Professional Callback
+SG1191	Health and Social Information	SD4328	PC Receive report of results or tests
+SG1191	Health and Social Information	SD4413	PC repeat prescription
+SG1192	Repeat Prescription	SD4003	PC full Primary Care assessment and prescribing capability
+SG1192	Repeat Prescription	SD4413	PC repeat prescription
+SG1192	Repeat Prescription	SD4452	PC symptomatic assessment
+SG1193	Immediate threats to life	SD4048	AMB fit/convulsion
+SG1193	Immediate threats to life	SD4212	AMB cardiac arrest
+SG1193	Immediate threats to life	SD4214	AMB unconscious
+SG1193	Immediate threats to life	SD4215	AMB major blood loss, trauma
+SG1193	Immediate threats to life	SD4216	AMB major blood loss, non-trauma
+SG1193	Immediate threats to life	SD4217	AMB major blood loss, non-trauma AND respiratory distress
+SG1193	Immediate threats to life	SD4218	AMB major blood loss, non-trauma AND shock
+SG1193	Immediate threats to life	SD4219	AMB major blood loss, non-trauma AND septicaemia
+SG1193	Immediate threats to life	SD4220	AMB major blood loss, trauma AND amputated digits
+SG1193	Immediate threats to life	SD4221	AMB threat to life, environmental
+SG1193	Immediate threats to life	SD4301	AMB major blood loss
+SG1194	Trauma Emergency	SD4102	AMB respiratory distress
+SG1194	Trauma Emergency	SD4106	AMB shock
+SG1194	Trauma Emergency	SD4115	AMB vaginal bleeding, heavy
+SG1194	Trauma Emergency	SD4135	AMB fall, significant
+SG1194	Trauma Emergency	SD4153	AMB bleeding, significant
+SG1194	Trauma Emergency	SD4191	AMB trapped
+SG1194	Trauma Emergency	SD4215	AMB major blood loss, trauma
+SG1194	Trauma Emergency	SD4222	AMB major trauma AND significant blood loss
+SG1194	Trauma Emergency	SD4223	AMB vaginal bleeding,heavy AND pregnant,over 20 weeks
+SG1194	Trauma Emergency	SD4224	AMB gunshot OR stab injury, head/neck
+SG1194	Trauma Emergency	SD4225	AMB gunshot OR stab injury
+SG1194	Trauma Emergency	SD4226	AMB Road Traffic Incident, ejected from vehicle
+SG1194	Trauma Emergency	SD4227	AMB Road Traffic Incident, vehicle rollover
+SG1194	Trauma Emergency	SD4228	AMB major burn, respiratory involvement
+SG1194	Trauma Emergency	SD4229	AMB major burn
+SG1194	Trauma Emergency	SD4230	AMB major blunt injury
+SG1194	Trauma Emergency	SD4231	AMB major wound/amputation
+SG1194	Trauma Emergency	SD4232	AMB multiple major injuries
+SG1194	Trauma Emergency	SD4233	AMB near-drowning
+SG1194	Trauma Emergency	SD4234	AMB strangulation/suffocation
+SG1194	Trauma Emergency	SD4235	AMB blast injury
+SG1194	Trauma Emergency	SD4236	AMB lightning strike
+SG1194	Trauma Emergency	SD4237	AMB major trauma AND trapped at scene
+SG1194	Trauma Emergency	SD4238	AMB self-harm episode AND toxic ingestion/inhalation/overdose
+SG1194	Trauma Emergency	SD4239	AMB chest injury AND cardiac/respiratory symptoms
+SG1194	Trauma Emergency	SD4240	AMB loss of consciousness prior to injury
+SG1194	Trauma Emergency	SD4241	AMB stroke symptoms prior to injury
+SG1194	Trauma Emergency	SD4242	AMB subarachnoid haemorrhage symptoms prior to injury
+SG1194	Trauma Emergency	SD4249	AMB gunshot OR stab injury, torso
+SG1194	Trauma Emergency	SD4412	AMB acute neurological symptoms prior to injury
+SG1194	Trauma Emergency	SD4421	AMB major blunt injury, torso
+SG1194	Trauma Emergency	SD4422	AMB major blunt injury, head/neck
+SG1195	Non-trauma Emergency	SD4000	AMB septicaemia
+SG1195	Non-trauma Emergency	SD4002	AMB meningitis
+SG1195	Non-trauma Emergency	SD4003	PC full Primary Care assessment and prescribing capability
+SG1195	Non-trauma Emergency	SD4044	AMB suicide attempt
+SG1195	Non-trauma Emergency	SD4102	AMB respiratory distress
+SG1195	Non-trauma Emergency	SD4106	AMB shock
+SG1195	Non-trauma Emergency	SD4108	AMB decreased conscious level
+SG1195	Non-trauma Emergency	SD4212	AMB cardiac arrest
+SG1195	Non-trauma Emergency	SD4243	AMB resuscitation, recent
+SG1195	Non-trauma Emergency	SD4460	PC severe illness assessment capability
+SG1196	Declared Seizure Warning	SD4003	PC full Primary Care assessment and prescribing capability
+SG1196	Declared Seizure Warning	SD4052	ED full ED assessment and management capability
+SG1196	Declared Seizure Warning	SD4246	AMB imminent seizure
+SG1197	Faecal Incontinence	SD4003	PC full Primary Care assessment and prescribing capability
+SG1197	Faecal Incontinence	SD4010	ALL assault, sexual
+SG1197	Faecal Incontinence	SD4029	AMB spinal cord compression
+SG1197	Faecal Incontinence	SD4052	ED full ED assessment and management capability
+SG1198	Stings, Water Creature	SD4003	PC full Primary Care assessment and prescribing capability
+SG1198	Stings, Water Creature	SD4052	ED full ED assessment and management capability
+SG1198	Stings, Water Creature	SD4101	AMB anaphylaxis
+SG1198	Stings, Water Creature	SD4313	AMB sting ray
+SG1198	Stings, Water Creature	SD4314	ED Weever Fish, Sea Urchin
+SG1201	Reduced Fetal Movements	SD4000	AMB septicaemia
+SG1201	Reduced Fetal Movements	SD4002	AMB meningitis
+SG1201	Reduced Fetal Movements	SD4003	PC full Primary Care assessment and prescribing capability
+SG1201	Reduced Fetal Movements	SD4010	ALL assault, sexual
+SG1201	Reduced Fetal Movements	SD4052	ED full ED assessment and management capability
+SG1201	Reduced Fetal Movements	SD4100	AMB placental abruption
+SG1201	Reduced Fetal Movements	SD4112	PC full obstetric assessment and management capability
+SG1202	Limb, cold or colour change	SD4003	PC full Primary Care assessment and prescribing capability
+SG1202	Limb, cold or colour change	SD4020	PC assessment and management capability, minor condition
+SG1202	Limb, cold or colour change	SD4027	AMB ischaemia, non-trauma
+SG1202	Limb, cold or colour change	SD4052	ED full ED assessment and management capability
+SG1203	Mental Health Problem	SD4003	PC full Primary Care assessment and prescribing capability
+SG1203	Mental Health Problem	SD4052	ED full ED assessment and management capability
+SG1203	Mental Health Problem	SD4173	PC bereavement
+SG1203	Mental Health Problem	SD4174	PC relationship breakdown
+SG1203	Mental Health Problem	SD4175	PC postnatal mental health problem
+SG1203	Mental Health Problem	SD4176	PC post-traumatic stress
+SG1203	Mental Health Problem	SD4177	PC depressed mood
+SG1203	Mental Health Problem	SD4179	PC anxiety/panic
+SG1203	Mental Health Problem	SD4180	PC mental health assessment, alcohol misuse
+SG1203	Mental Health Problem	SD4181	PC mental health assessment, drug misuse
+SG1203	Mental Health Problem	SD4183	PC mental health assessment, solvent misuse
+SG1203	Mental Health Problem	SD4244	AMB suicidal, means and plan
+SG1203	Mental Health Problem	SD4245	ED suicidal, no means nor plan
+SG1203	Mental Health Problem	SD4319	PC alcohol drug withdrawal
+SG1203	Mental Health Problem	SD4419	ED mental health crisis
+SG1203	Mental Health Problem	SD4456	PC full mental health assessment capability
+SG1204	Failed Contraception	SD4003	PC full Primary Care assessment and prescribing capability
+SG1204	Failed Contraception	SD4031	PC sexually transmitted infection
+SG1204	Failed Contraception	SD4066	PC retained tampon, condom or cap
+SG1204	Failed Contraception	SD4198	PC failed contraception
+SG1204	Failed Contraception	SD4320	PC Failed Contraception over 72 hours
+SG1204	Failed Contraception	SD4420	PC failed contraception and retained foreign body
+SG1205	Hearing Problems or Blocked Ear	SD4003	PC full Primary Care assessment and prescribing capability
+SG1205	Hearing Problems or Blocked Ear	SD4020	PC assessment and management capability, minor condition
+SG1205	Hearing Problems or Blocked Ear	SD4022	ED foreign body, removal required
+SG1205	Hearing Problems or Blocked Ear	SD4052	ED full ED assessment and management capability
+SG1206	NHS Pathways In House Clinician	SD4003	PC full Primary Care assessment and prescribing capability
+SG1206	NHS Pathways In House Clinician	SD4010	ALL assault, sexual
+SG1206	NHS Pathways In House Clinician	SD4020	PC assessment and management capability, minor condition
+SG1206	NHS Pathways In House Clinician	SD4031	PC sexually transmitted infection
+SG1206	NHS Pathways In House Clinician	SD4047	PC full dental assessment and prescribing capability
+SG1206	NHS Pathways In House Clinician	SD4048	AMB fit/convulsion
+SG1206	NHS Pathways In House Clinician	SD4052	ED full ED assessment and management capability
+SG1206	NHS Pathways In House Clinician	SD4095	PC social services referral required
+SG1206	NHS Pathways In House Clinician	SD4112	PC full obstetric assessment and management capability
+SG1206	NHS Pathways In House Clinician	SD4117	PC police referral required
+SG1206	NHS Pathways In House Clinician	SD4118	AMB ambulance dispatch
+SG1206	NHS Pathways In House Clinician	SD4143	PC palliative care service
+SG1206	NHS Pathways In House Clinician	SD4170	PC syringe driver management capability - palliative care services
+SG1206	NHS Pathways In House Clinician	SD4193	PC general health information
+SG1206	NHS Pathways In House Clinician	SD4198	PC failed contraception
+SG1206	NHS Pathways In House Clinician	SD4212	AMB cardiac arrest
+SG1206	NHS Pathways In House Clinician	SD4214	AMB unconscious
+SG1206	NHS Pathways In House Clinician	SD4247	PC expected death, terminal illness
+SG1206	NHS Pathways In House Clinician	SD4248	ALL unexpected death
+SG1206	NHS Pathways In House Clinician	SD4316	PC Community Healthcare Professional
+SG1206	NHS Pathways In House Clinician	SD4317	CN Health Visitor
+SG1206	NHS Pathways In House Clinician	SD4323	CN Community Nurse
+SG1206	NHS Pathways In House Clinician	SD4324	CN Community Midwife
+SG1206	NHS Pathways In House Clinician	SD4413	PC repeat prescription
+SG1206	NHS Pathways In House Clinician	SD4419	ED mental health crisis
+SG1206	NHS Pathways In House Clinician	SD4467	PC Pharmacy Services
+SG1207	Reception Point	SD4003	PC full Primary Care assessment and prescribing capability
+SG1207	Reception Point	SD4010	ALL assault, sexual
+SG1207	Reception Point	SD4052	ED full ED assessment and management capability
+SG1207	Reception Point	SD4058	ED foreign body, rectum
+SG1207	Reception Point	SD4063	NOT FOUND
+SG1207	Reception Point	SD4091	AMB Head injury, full ED assessment required
+SG1207	Reception Point	SD4140	ED tight/painful plaster
+SG1207	Reception Point	SD4146	ED ischaemia, digit/s
+SG1207	Reception Point	SD4198	PC failed contraception
+SG1207	Reception Point	SD4330	RP ED failed contraception
+SG1207	Reception Point	SD4332	RP AMB urinary retention
+SG1207	Reception Point	SD4333	RP ED minor injury
+SG1207	Reception Point	SD4334	RP ED intoxication
+SG1207	Reception Point	SD4336	RP ED medication toxicity
+SG1207	Reception Point	SD4337	RP AMB injury, severe pain
+SG1207	Reception Point	SD4338	RP AMB fit or seizure within past 12 hours
+SG1207	Reception Point	SD4339	RP ED early labour
+SG1207	Reception Point	SD4340	RP PC referral without triage
+SG1207	Reception Point	SD4341	RP flu medication collection
+SG1207	Reception Point	SD4342	RP AMB antidepressant medication toxicity
+SG1207	Reception Point	SD4343	RP ED child protection/vulnerable adult concern
+SG1207	Reception Point	SD4344	RP ED Trauma bleeding, nose, ear, eye or mouth
+SG1207	Reception Point	SD4346	RP referral by healthcare professional
+SG1207	Reception Point	SD4347	RP bought in by police
+SG1207	Reception Point	SD4348	RP ED referral without triage
+SG1207	Reception Point	SD4349	RP ED behaviour problem
+SG1207	Reception Point	SD4350	RP ED nose, foreign body
+SG1207	Reception Point	SD4351	RP ED genital, foreign body
+SG1207	Reception Point	SD4352	RP ED ear, foreign body
+SG1207	Reception Point	SD4353	RP ED throat, foreign body
+SG1207	Reception Point	SD4355	RP ED management of dressings
+SG1207	Reception Point	SD4356	RP PC Non trauma bleeding, nose, ear, eye or mouth
+SG1207	Reception Point	SD4357	RP AMB labour
+SG1207	Reception Point	SD4358	RP AMB septicaemia
+SG1207	Reception Point	SD4359	RP AMB acute coronary syndrome
+SG1207	Reception Point	SD4360	RP AMB meningitis
+SG1207	Reception Point	SD4361	RP AMB severe pain
+SG1207	Reception Point	SD4363	RP ED features of severe illness
+SG1207	Reception Point	SD4364	RP AMB suicide attempt
+SG1207	Reception Point	SD4365	RP AMB anaphylaxis
+SG1207	Reception Point	SD4366	RP AMB stroke
+SG1207	Reception Point	SD4367	RP AMB major blood loss, trauma
+SG1207	Reception Point	SD4368	RP AMB resuscitation, recent
+SG1207	Reception Point	SD4369	RP AMB major blood loss
+SG1207	Reception Point	SD4370	RP AMB features of severe illness
+SG1207	Reception Point	SD4371	RP AMB severe injury
+SG1207	Reception Point	SD4372	RP AMB intoxication
+SG1207	Reception Point	SD4373	RP AMB paracetamol toxicity
+SG1207	Reception Point	SD4374	RP ED urinary retention
+SG1207	Reception Point	SD4375	RP AMB medication toxicity, high risk
+SG1207	Reception Point	SD4376	RP PC medication toxicity
+SG1207	Reception Point	SD4377	RP ED urinary catheter problem
+SG1207	Reception Point	SD4378	RP PC social/domestic emergency
+SG1207	Reception Point	SD4379	RP ED foreign body in situ
+SG1207	Reception Point	SD4380	RP ED foreign body location undeclared
+SG1207	Reception Point	SD4395	RP AMB diabetes AND confusion
+SG1207	Reception Point	SD4396	RP ED loose/damaged plaster
+SG1207	Reception Point	SD4402	PC viral haemorrhagic fever
+SG1207	Reception Point	SD4403	ED viral haemorrhagic fever
+SG1207	Reception Point	SD4404	AMB viral haemorrhagic fever
+SG1207	Reception Point	SD4407	RP ED non-trauma bleeding nose, ear, eye or mouth
+SG1207	Reception Point	SD4413	PC repeat prescription
+SG1208	Pubic Lice	SD4031	PC sexually transmitted infection
+SG1209	Scabies	SD4020	PC assessment and management capability, minor condition
+SG1210	Tremor	SD4003	PC full Primary Care assessment and prescribing capability
+SG1210	Tremor	SD4052	ED full ED assessment and management capability
+SG1210	Tremor	SD4244	AMB suicidal, means and plan
+SG1210	Tremor	SD4245	ED suicidal, no means nor plan
+SG1210	Tremor	SD4319	PC alcohol drug withdrawal
+SG1211	Eye splash injury, chemical	SD4003	PC full Primary Care assessment and prescribing capability
+SG1211	Eye splash injury, chemical	SD4052	ED full ED assessment and management capability
+SG1211	Eye splash injury, chemical	SD4381	AMB chemical eye splash, high risk
+SG1212	Implantable Cardioverter Defibrillator Shock	SD4382	AMB ICD activation
+SG1212	Implantable Cardioverter Defibrillator Shock	SD4383	AMB cardiac symptoms post ICD activation
+SG1212	Implantable Cardioverter Defibrillator Shock	SD4384	AMB breathlessness post ICD activation
+SG1212	Implantable Cardioverter Defibrillator Shock	SD4385	AMB palpitations post ICD activation
+SG1212	Implantable Cardioverter Defibrillator Shock	SD4386	AMB confusion post ICD activation
+SG1212	Implantable Cardioverter Defibrillator Shock	SD4387	PC ICD activation
+SG1213	Hiccups	SD4003	PC full Primary Care assessment and prescribing capability
+SG1217	Stroke Like Symptoms	SD4000	AMB septicaemia
+SG1217	Stroke Like Symptoms	SD4002	AMB meningitis
+SG1217	Stroke Like Symptoms	SD4003	PC full Primary Care assessment and prescribing capability
+SG1217	Stroke Like Symptoms	SD4033	AMB new/worsening breathlessness
+SG1217	Stroke Like Symptoms	SD4035	AMB subarachnoid haemorrhage
+SG1217	Stroke Like Symptoms	SD4043	AMB major head/neck injury
+SG1217	Stroke Like Symptoms	SD4108	AMB decreased conscious level
+SG1217	Stroke Like Symptoms	SD4406	AMB acute neurological deficit
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4000	AMB septicaemia
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4001	AMB acute coronary syndrome
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4002	AMB meningitis
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4028	AMB stroke
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4089	AMB labour
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4101	AMB anaphylaxis
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4102	AMB respiratory distress
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4124	AMB seriously ill infant
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4150	AMB neonatal respiratory arrest
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4203	AMB immediate threat to life
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4281	AMB hospital request for assistance
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4300	AMB other assistance required
+SG1219	GP Urgent, Bed Bureau, Interhospital Transfers	SD4482	Mental health emergency
+SG1221	Ambulance Dispatch	SD4000	AMB septicaemia
+SG1221	Ambulance Dispatch	SD4001	AMB acute coronary syndrome
+SG1221	Ambulance Dispatch	SD4002	AMB meningitis
+SG1221	Ambulance Dispatch	SD4016	AMB aortic aneurysm, rupture/dissection
+SG1221	Ambulance Dispatch	SD4028	AMB stroke
+SG1221	Ambulance Dispatch	SD4060	AMB acute abdomen
+SG1221	Ambulance Dispatch	SD4101	AMB anaphylaxis
+SG1221	Ambulance Dispatch	SD4102	AMB respiratory distress
+SG1221	Ambulance Dispatch	SD4106	AMB shock
+SG1221	Ambulance Dispatch	SD4118	AMB ambulance dispatch
+SG1221	Ambulance Dispatch	SD4212	AMB cardiac arrest
+SG1221	Ambulance Dispatch	SD4301	AMB major blood loss
+SG1222	Healthcare Professional Callback	SD4003	PC full Primary Care assessment and prescribing capability
+SG1222	Healthcare Professional Callback	SD4143	PC palliative care service
+SG1222	Healthcare Professional Callback	SD4170	PC syringe driver management capability - palliative care services
+SG1222	Healthcare Professional Callback	SD4193	PC general health information
+SG1222	Healthcare Professional Callback	SD4315	PC Healthcare Professional Callback
+SG1222	Healthcare Professional Callback	SD4316	PC Community Healthcare Professional
+SG1222	Healthcare Professional Callback	SD4317	CN Health Visitor
+SG1222	Healthcare Professional Callback	SD4323	CN Community Nurse
+SG1222	Healthcare Professional Callback	SD4324	CN Community Midwife
+SG1222	Healthcare Professional Callback	SD4452	PC symptomatic assessment
+SG1223	Bites and Stings	SD4003	PC full Primary Care assessment and prescribing capability
+SG1223	Bites and Stings	SD4052	ED full ED assessment and management capability
+SG1224	Eye or Eyelid Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1224	Eye or Eyelid Problems	SD4052	ED full ED assessment and management capability
+SG1225	Skin Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1225	Skin Problems	SD4052	ED full ED assessment and management capability
+SG1226	Dental Problems	SD4003	PC full Primary Care assessment and prescribing capability
+SG1226	Dental Problems	SD4047	PC full dental assessment and prescribing capability
+SG1226	Dental Problems	SD4052	ED full ED assessment and management capability
+SG1226	Dental Problems	SD4411	PC dental trauma, tooth avulsion
+SG1226	Dental Problems	SD4454	ED dental emergency
+SG1227	Wound Problems, Plaster Casts, Tubes and Metal Appliances	SD4003	PC full Primary Care assessment and prescribing capability
+SG1227	Wound Problems, Plaster Casts, Tubes and Metal Appliances	SD4052	ED full ED assessment and management capability
+SG1228	Self-Harm	SD4003	PC full Primary Care assessment and prescribing capability
+SG1228	Self-Harm	SD4019	AMB toxic ingestion
+SG1228	Self-Harm	SD4052	ED full ED assessment and management capability
+SG1228	Self-Harm	SD4119	AMB medication/toxic substance overdose, high risk
+SG1228	Self-Harm	SD4244	AMB suicidal, means and plan
+SG1228	Self-Harm	SD4245	ED suicidal, no means nor plan
+SG1229	Dental Module	SD4010	ALL assault, sexual
+SG1229	Dental Module	SD4052	ED full ED assessment and management capability
+SG1229	Dental Module	SD4470	ALL Full Assessment Capability, significant blood loss
+SG1229	Dental Module	SD4471	ALL Full Assessment Capability, breathing difficulties
+SG1229	Dental Module	SD4472	ALL Full Assessment Capability, potential critical illness
+SG1229	Dental Module	SD4473	ALL Full Assessment Capability, potential life threatening shock
+SG1229	Dental Module	SD4474	ALL Full Assessment Capability, symptomatic assessment
+SG1229	Dental Module	SD4475	ALL Full Assessment Capability, chest pain
+SG1229	Dental Module	SD4476	ALL Full Assessment Capability, major trauma
+SG1229	Dental Module	SD4477	ALL Full Assessment Capability, head injury
+SG1229	Dental Module	SD4478	ALL Full Assessment Capability, probable stroke or mini-stroke
+SG1229	Dental Module	SD4479	ALL Full Assessment Capability, possible allergic reaction
